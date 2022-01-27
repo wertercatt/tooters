@@ -147,16 +147,16 @@ a[href^="#fn:"] {
   min-width: 35px;
   margin: 0 0.1em 0 0.2em;
   text-align: center;
-  color: $color;
-  background-color: rgba(33, 34, 40, 1);
-  border: 1.5px solid $accent;
+  color: $accent;
+  background-color: $code-inline-bg;
+  border: 1.5px solid #7e7e7e;
   border-radius: 1em;
   vertical-align: middle;
 
   @media (prefers-color-scheme: light) {
-  color: $light-scheme-color;
-  background-color: #F8F8F8;
-  border: 1.5px solid #d2d2d2;
+  color: $light-scheme-accent;
+  background-color: $code-inline-bg;
+  border: 1.5px solid #7e7e7e;
     }
 }
 
@@ -175,22 +175,22 @@ a[href^="#fnref:"] {
 
 :target {
 	padding: 6px;
-  border: solid 1px $accent;
-  background-color: rgba(33, 34, 40, 1);
+  border: solid 1px #7e7e7e;
+  background-color: $code-inline-bg;
 
   @media (prefers-color-scheme: light) {
-  border: solid 1.5px #d2d2d2;
-  background-color: #F8F8F8;
+  border: solid 1.5px #7e7e7e;
+  background-color: $code-inline-bg;
     }
   }
 }
 
 .reversefootnote {
  text-decoration: none;
- color: $color;
+ color: $accent;
 
  @media (prefers-color-scheme: light) {
- color: $light-scheme-color;
+ color: $light-scheme-accent;
    }
 }
 
@@ -201,4 +201,5 @@ a[href^="#fnref:"] {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  color: $accent;
 }

@@ -5,23 +5,23 @@ h1, h2, h3, h4, h6 {
   font-weight: 600;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
-  color: #6e6e6e;
+  color: #888888;
   position: relative;
 
   @media (prefers-color-scheme: light) {
-   color: #6e6e6e;
+   color: #888888;
      }
 }
 
 h3::before {
     content: "#";
-    color: #6e6e6e;
+    color: #888888;
     left: -1em;
     top: 0;
 	position: absolute;
 
   @media (prefers-color-scheme: light) {
-   color: #6e6e6e;
+   color: #888888;
      }
 }
 

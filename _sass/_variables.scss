@@ -1,0 +1,43 @@
+// Color scheme for light and dark mode
+$color: #0083a0;
+$accent: #6968A7;
+$light-scheme-color: #009ddc;
+$light-scheme-accent: #909090;
+
+$bg: rgba(0,0,0,.9);
+$text: rgba(255, 255, 255, 0.8);
+$light-scheme-bg: rgba(255, 255, 255, 0.8);
+$light-scheme-text: rgba(52, 52, 52, 0.9);
+
+$code-inline: #5bc8f9;
+$code-inline-bg: #212c2d;
+$code-block-accent: #5bc8f9;
+$code-block-bg: rgba(33, 34, 40, 1);
+
+$code-inline-light: #343434;
+$code-inline-bg-light: #F8F8F8;
+$code-block-accent-light: #00c2bb;
+$code-block-bg-light: rgba(49, 50, 59, 1);
+
+$notice: #323332;
+$notice-green: #002d2b;
+$notice-yellow: #292006;
+$notice-orange: #260E02;
+
+$message-default: #002d2b;
+$message-light: #F8F8F8;
+$message-black: #282828;
+$message-green: #62bb47;
+$message-yellow: #fcb827;
+$message-orange: #f6821f;
+$message-red: #e03940;
+$message-purple: #953c96;
+$message-blue: #009ddc;
+
+$root-font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+$code-font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$root-font-size: 16px;
+$root-line-height: 1.75;
+
+$large-breakpoint: 38em;
+$large-font-size: 1.25em;

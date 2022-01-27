@@ -134,12 +134,12 @@ figure.highlight, div.highlight {
                 min-width: 30px;
                 text-align: center;
 
-                color: $code-block-accent;
+                color: ;#ffffff
                 background-color: $code-block-bg;
 
                 @media (prefers-color-scheme: light) {
                 border: 1px solid $code-block-accent-light;
-                color: $code-block-accent-light;
+                color: #ffffff;
                 background-color: $code-block-bg-light;
                 }
 

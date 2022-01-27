@@ -107,13 +107,11 @@ blockquote {
   margin: 40px auto;
   font-style: italic;
   font-size: 90%;
-  opacity: .9;
   position: relative;
   border-left: 4px solid $accent;
 
   @media (prefers-color-scheme: light) {
   border-left: 4px solid $light-scheme-accent;
-  opacity: .8;
     }
 
   p:last-child {

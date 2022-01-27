@@ -93,10 +93,11 @@ figure {
   display: block;
   margin-top: -.4rem;
   margin-bottom: 1rem;
-  color: #303131;
+  color: $text;
+  opacity: .8;
 
   @media (prefers-color-scheme: light) {
-   color: #303131;
+   color: $text;
      }
 }
 

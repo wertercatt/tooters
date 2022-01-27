@@ -125,7 +125,7 @@ figure {
 .tag-list {
 
   a:link {
-    color: $accent;
+    color: $text;
     background-color: $code-inline-bg;
     display: inline-block;
     padding-top: 1px;
@@ -140,13 +140,13 @@ figure {
 
 
     @media (prefers-color-scheme: light) {
-     color: $light-scheme-accent;
+     color: $light-scheme-text;
      border: 1.5px solid #7e7e7e;
        }
 }
 
 a:visited {
-    color: $accent;
+    color: $text;
     background-color: $code-inline-bg;
     display: inline-block;
     padding-top: 1px;
@@ -160,7 +160,7 @@ a:visited {
     font-size: 90%;
 
     @media (prefers-color-scheme: light) {
-     color: $light-scheme-accent;
+     color: $light-scheme-text;
      border: 1.5px solid #7e7e7e;
        }
   }

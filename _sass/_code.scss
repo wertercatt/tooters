@@ -12,7 +12,7 @@
     border-radius: .25em;
 
     @media (prefers-color-scheme: light) {
-        color: $code-inline-light;
+        color: $code-inline;
         background-color: $code-inline-bg-light;
         border: 1.5px solid $code-border-light;
         }

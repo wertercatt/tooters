@@ -1,17 +1,17 @@
-// Color scheme for light and dark mode
-$color: #0083a0;
-$accent: #6968A7;
-$light-scheme-color: #009ddc;
-$light-scheme-accent: #909090;
+// Color scheme settings for the Reader theme light and dark mode
+$color: #ffffff;
+$accent: #252525;
+$light-scheme-color: #ffffff;
+$light-scheme-accent: #252525;
 
-$bg: rgba(0,0,0,.9);
-$text: rgba(255, 255, 255, 0.8);
-$light-scheme-bg: rgba(255, 255, 255, 0.8);
-$light-scheme-text: rgba(52, 52, 52, 0.9);
+$bg: #1e1e1e;
+$text: #626262;
+$light-scheme-bg: #1e1e1e;
+$light-scheme-text: #626262;
 
-$code-inline: #5bc8f9;
-$code-inline-bg: #212c2d;
-$code-block-accent: #5bc8f9;
+$code-inline: #ffffff;
+$code-inline-bg: rgba(33, 34, 40, 1);
+$code-block-accent: #252525;
 $code-block-bg: rgba(33, 34, 40, 1);
 
 $code-inline-light: #343434;

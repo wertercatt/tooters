@@ -40,10 +40,9 @@ body {
 a {
   color: $accent;
   text-decoration: none;
-  font-weight: bold;
 
    @media (prefers-color-scheme: light) {
-   color: $light-scheme-color;
+   color: $accent;
      }
 
   // `:focus` is linked to `:hover` for basic accessibility

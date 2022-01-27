@@ -125,42 +125,43 @@ figure {
 .tag-list {
 
   a:link {
-    color: $color;
+    color: $accent;
+    background-color: $code-inline-bg;
     display: inline-block;
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 5px;
     padding-right: 5px;
-    border: 1.5px solid $accent;
+    border: 1.5px solid #7e7e7e;
     border-radius: .25em;
     margin-bottom: .5rem;
     margin-right: .1rem;
     font-size: 95%;
 
+
     @media (prefers-color-scheme: light) {
-     color: $light-scheme-color;
-     border: 1.5px solid #d2d2d2;
-     background-color: #f8f8f8;
+     color: $light-scheme-accent;
+     border: 1.5px solid #7e7e7e;
        }
 }
 
 a:visited {
-    color: $color;
+    color: $accent;
+    background-color: $code-inline-bg;
     display: inline-block;
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 5px;
     padding-right: 5px;
-    border: 1px solid $accent;
+    border: 1.5px solid #7e7e7e;
     border-radius: .25em;
     margin-bottom: .5rem;
     margin-right: .1rem;
     font-size: 90%;
 
     @media (prefers-color-scheme: light) {
-     color: $light-scheme-color;
-     border: 1.5px solid #d2d2d2;
-     background-color: #f8f8f8;
+     color: $light-scheme-accent;
+     border: 1.5px solid #7e7e7e;
        }
   }
 }

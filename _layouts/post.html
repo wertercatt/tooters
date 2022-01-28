@@ -29,7 +29,7 @@ layout: default
 
   <br><br>
   {% if page.link %}<span class="source" role="doc-endnotes">
-  ⌘ <a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a>
+  source: <a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a>
   </span>{% endif %}
   <div class="tag-list">
   {% if post %}

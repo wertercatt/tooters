@@ -91,7 +91,8 @@ figure {
 // Meta data line below post title
 .post-date {
   display: block;
-
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
   color: #7e7e7e;
 
   @media (prefers-color-scheme: light) {

@@ -12,16 +12,16 @@
 .notice-guide {
   margin-bottom: 15px;
   padding: 12px;
-  color: $text;
-  background-color: $code-inline-bg;
-  border: .1rem solid $accent;
+  color: #848484;
+  background-color: #343434;
+  border: .1rem solid #e1e1e1;
   border-radius: .5em;
   text-align: center;
 
   @media (prefers-color-scheme: light) {
-  color: $light-scheme-text;
-  background-color: $code-inline-bg;
-  border: .1rem solid $light-scheme-accent;
+  color: #848484;
+  background-color: #343434;
+  border: .1rem solid #e1e1e1;
     }
 }
 

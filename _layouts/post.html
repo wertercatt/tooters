@@ -3,6 +3,7 @@ layout: default
 ---
 
 <article class="post">
+
 {% if page.link %}
 <h2 class="post-title"><a href="{{ page.link }}">
   {{ page.title | smartify }} <span class="link-arrow">&rarr;</span></a>
@@ -10,7 +11,6 @@ layout: default
   {% else %}
 <h2 class="post-title">{{ page.title | smartify }}</h2>
   {% endif %}
-
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_long_string: "ordinal", "US" }}
   {% if post %}
   {% assign categories = post.categories %}
@@ -20,15 +20,17 @@ layout: default
   {% if categories.size > 0 %}in{% endif %}
   {% for category in categories %}
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  {%- if page.last_modified_at -%}
-  <br><i>Last updated on: {{ page.last_modified_at | date_to_long_string: "ordinal", "US" }}</i>
-  {%- endif -%}
-  </time>{% if page.link %}<span class="external-link">⌘ External Link</span>{% endif %}
+  {% endfor %}</time>
+
+
+
 
   {{ content | smartify }}
 
   <br><br>
+  {% if page.link %}<span class="source" role="doc-endnotes">
+  source: <a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a>
+  </span>{% endif %}
   <div class="tag-list">
   {% if post %}
   {% assign tags = post.tags %}
@@ -40,14 +42,12 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
   </div>
-  
+
 
   {% if page.link %}
-  <span class="source" role="doc-endnotes">
-  source: <a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a>
-  </span><br>
+  <br>
   {% endif %}
-  
+
   <br><br>
 
 </article>

@@ -86,13 +86,14 @@ figure {
 .page-title,
 .post-title {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 // Meta data line below post title
 .post-date {
   display: block;
-  margin-top: -.4rem;
-  margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
   color: #7e7e7e;
 
   @media (prefers-color-scheme: light) {
@@ -111,9 +112,8 @@ figure {
      }
 }
 
-.external-link {
+.source {
   display: block;
-  margin-top: -1rem;
   margin-bottom: 1.5rem;
   color: #7e7e7e;
 
@@ -125,7 +125,7 @@ figure {
 .tag-list {
 
   a:link {
-    color: $text;
+    color: $accent;
     background-color: $code-inline-bg;
     display: inline-block;
     padding-top: 1px;
@@ -140,13 +140,13 @@ figure {
 
 
     @media (prefers-color-scheme: light) {
-     color: $light-scheme-text;
+     color: $accent;
      border: 1.5px solid #7e7e7e;
        }
 }
 
 a:visited {
-    color: $text;
+    color: $accent;
     background-color: $code-inline-bg;
     display: inline-block;
     padding-top: 1px;
@@ -160,7 +160,7 @@ a:visited {
     font-size: 90%;
 
     @media (prefers-color-scheme: light) {
-     color: $light-scheme-text;
+     color: $accent;
      border: 1.5px solid #7e7e7e;
        }
   }

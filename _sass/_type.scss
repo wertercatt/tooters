@@ -108,10 +108,10 @@ blockquote {
   font-style: italic;
   font-size: 90%;
   position: relative;
-  border-left: 4px solid $accent;
+  border-left: 4px solid #6c6c6c;
 
   @media (prefers-color-scheme: light) {
-  border-left: 4px solid $light-scheme-accent;
+  border-left: 4px solid #6c6c6c;
     }
 
   p:last-child {

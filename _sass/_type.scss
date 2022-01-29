@@ -198,4 +198,8 @@ a[href^="#fnref:"] {
   font-size: 1.25rem;
   font-weight: 300;
   color: $accent;
+
+  @media (prefers-color-scheme: light) {
+  color: $light-scheme-accent;
+    }
 }

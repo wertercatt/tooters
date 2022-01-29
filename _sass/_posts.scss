@@ -139,6 +139,7 @@ figure {
 
     @media (prefers-color-scheme: light) {
      color: $light-scheme-accent;
+     background-color: #e0e0e0;
        }
 }
 
@@ -157,8 +158,9 @@ a:visited {
     font-size: 90%;
 
     @media (prefers-color-scheme: light) {
-     color: $accent;
+     color: $light-scheme-accent;
      border: 1.5px solid #7e7e7e;
+     background-color: #e0e0e0;
        }
   }
 }

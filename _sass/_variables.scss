@@ -1,23 +1,28 @@
-// Color scheme for light and dark mode
-$color: #0083a0;
-$accent: #6968A7;
-$light-scheme-color: #009ddc;
-$light-scheme-accent: #909090;
+// Color scheme settings for the Reader theme light and dark mode
+$color: #919191;
+$accent: #df5550;
+$light-scheme-color: #919191;
+$light-scheme-accent: #df5550;
 
-$bg: rgba(0,0,0,.9);
-$text: rgba(255, 255, 255, 0.8);
-$light-scheme-bg: rgba(255, 255, 255, 0.8);
-$light-scheme-text: rgba(52, 52, 52, 0.9);
+$bg: #1e1e1e;
+$text: #cdcdcd;
+$header: #6c6c6c;
+$header-before: #6c6c6c;
+$light-scheme-bg: #1e1e1e;
+$light-scheme-text: #cdcdcd;
+$light-scheme-header: #6c6c6c;
+$light-scheme-header-before: #6c6c6c;
 
-$code-inline: #5bc8f9;
-$code-inline-bg: #212c2d;
-$code-block-accent: #5bc8f9;
+$code-inline: #ffffff;
+$code-inline-bg: rgba(33, 34, 40, 1);
+$code-block-accent: #df5550;
 $code-block-bg: rgba(33, 34, 40, 1);
+$code-border: #df5550;
 
-$code-inline-light: #343434;
-$code-inline-bg-light: #F8F8F8;
-$code-block-accent-light: #00c2bb;
+$code-inline-bg-light: rgba(33, 34, 40, 1);
+$code-block-accent-light: #df5550;
 $code-block-bg-light: rgba(49, 50, 59, 1);
+$code-border-light: #df5550;
 
 $notice: #323332;
 $notice-green: #002d2b;

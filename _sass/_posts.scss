@@ -5,10 +5,10 @@ figure {
     margin-left:    0;
     margin-top:     1.5em;
     margin-bottom:  2em;
-    
+
     & > :nth-last-child(2) {
         margin-bottom: 0;
-        
+
         & > :last-child {
             margin-bottom: 0;
         }
@@ -23,7 +23,7 @@ figure {
         margin-left:    0;
         margin-right:   0;
         margin-top:     0;
-        
+
         figcaption {
             margin-top:     1em;
             margin-right:   2em;
@@ -33,11 +33,11 @@ figure {
     &.attributed-quote {
         margin-left:    0;
         margin-right:   0;
-        
+
         figcaption {
             margin-top:     0.8em;
             margin-left:    4em;
-            
+
             p {
                 display: inline;
             }
@@ -61,8 +61,6 @@ figure {
     }
 }
 
-// End of alterations for captions.
-
 .page,
 .post {
   margin-bottom: 1em;
@@ -77,7 +75,7 @@ figure {
 .post-title,
 .post-title a {
   color: $text;
-  
+
   @media (prefers-color-scheme: light) {
    color: $light-scheme-text;
      }
@@ -86,17 +84,18 @@ figure {
 .page-title,
 .post-title {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 // Meta data line below post title
 .post-date {
   display: block;
-  margin-top: -.4rem;
-  margin-bottom: 1rem;
-  color: $text;
-  
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: #7e7e7e;
+
   @media (prefers-color-scheme: light) {
-   color: $light-scheme-text;
+   color: #7e7e7e;
      }
 }
 
@@ -104,65 +103,62 @@ figure {
   display: block;
   margin-top: -1rem;
   margin-bottom: 1.5rem;
-  color: $text;
-  
+  color: $color;
+
   @media (prefers-color-scheme: light) {
    color: $light-scheme-color;
      }
 }
 
-.external-link {
+.source {
   display: block;
-  margin-top: -1rem;
   margin-bottom: 1.5rem;
-  opacity: .7;
-  color: $text;
-  
+  color: #7e7e7e;
+
   @media (prefers-color-scheme: light) {
-   color: $light-scheme-accent;
-   opacity: 1;
-     }  
+   color: #7e7e7e;
+     }
 }
 
 .tag-list {
-  
+
   a:link {
-    color: $color;
+    color: $accent;
+    background-color: $code-inline-bg;
     display: inline-block;
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 5px;
     padding-right: 5px;
-    border: 1.5px solid $accent;
+    border: 1.5px solid #7e7e7e;
     border-radius: .25em;
     margin-bottom: .5rem;
     margin-right: .1rem;
     font-size: 95%;
-    
+
+
     @media (prefers-color-scheme: light) {
-     color: $light-scheme-color;
-     border: 1.5px solid #d2d2d2;
-     background-color: #f8f8f8;
+     color: $light-scheme-accent;
        }
 }
 
 a:visited {
-    color: $color;
+    color: $accent;
+    background-color: $code-inline-bg;
     display: inline-block;
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 5px;
     padding-right: 5px;
-    border: 1px solid $accent;
+    border: 1.5px solid #7e7e7e;
     border-radius: .25em;
     margin-bottom: .5rem;
     margin-right: .1rem;
     font-size: 90%;
-    
+
     @media (prefers-color-scheme: light) {
-     color: $light-scheme-color;
-     border: 1.5px solid #d2d2d2;
-     background-color: #f8f8f8;
+     color: $accent;
+     border: 1.5px solid #7e7e7e;
        }
   }
 }

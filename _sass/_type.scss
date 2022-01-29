@@ -134,7 +134,7 @@ mark {
 	  padding: 2px 2px;
 
     @media (prefers-color-scheme: light) {
-    background: #e8e8e8;
+    background: $light-scheme-accent;
     color: $light-scheme-text;
       }
 }

@@ -97,7 +97,7 @@ span.link-arrow {
 	color: $accent;
 
   @media (prefers-color-scheme: light) {
-  color: #6c6c6c;
+  color: $light-scheme-accent;
     }
 }
 

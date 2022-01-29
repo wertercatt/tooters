@@ -61,8 +61,6 @@ figure {
     }
 }
 
-// End of alterations for captions.
-
 .page,
 .post {
   margin-bottom: 1em;
@@ -140,8 +138,7 @@ figure {
 
 
     @media (prefers-color-scheme: light) {
-     color: $accent;
-     border: 1.5px solid #7e7e7e;
+     color: $light-scheme-accent;
        }
 }
 

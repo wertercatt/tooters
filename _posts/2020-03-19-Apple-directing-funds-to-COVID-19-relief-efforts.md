@@ -3,7 +3,7 @@ layout: post
 title:  "Apple directing funds to COVID-19 relief efforts"
 date:   2020-03-19 12:00:00
 categories: [Links]
-tags: [apple, coronavirus]
+tags: [apple, coronavirus, tweets]
 link: https://twitter.com/tim_cook/status/1240676670069080064
 ---
 

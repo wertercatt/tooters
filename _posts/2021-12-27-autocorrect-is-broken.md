@@ -3,7 +3,7 @@ layout: post
 title:  "Autocorrect is broken"
 date:   2021-12-27 12:00
 categories: [Links]
-tags: [iOS, bugs]
+tags: [iOS, bugs, tweets]
 link: https://twitter.com/kocienda/status/1469320555211804675
 ---
 

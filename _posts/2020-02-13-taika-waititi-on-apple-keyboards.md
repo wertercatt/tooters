@@ -3,7 +3,7 @@ layout: post
 title:  "Taika Waititi on Apple keyboards"
 date:   2020-02-13 16:20:06
 categories: [Links]
-tags: [apple, culture, humor]
+tags: [apple, life, tweets]
 link: https://twitter.com/variety/status/1226710675554091008
 ---
 

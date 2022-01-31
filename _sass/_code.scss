@@ -8,13 +8,11 @@
     background-color: $code-inline-bg;
     color: $code-inline;
 	white-space: nowrap;
-    border: 1.5px solid $code-border;
     border-radius: .25em;
 
     @media (prefers-color-scheme: light) {
-        color: $code-inline;
+        color: $light-scheme-text;
         background-color: $code-inline-bg-light;
-        border: 1.5px solid $code-border-light;
         }
 }
 

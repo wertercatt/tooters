@@ -49,8 +49,6 @@ Subscript: H<sub>2</sub>O and Superscript: X<sup>2</sup>
 
 <br>
 
-<br>
-
 Ordered list:
 1. Milk
 2. Bread

@@ -15,7 +15,7 @@ to format text *italic*, **bold** or ***bold and italic***.
 
 Regardless of where a link is presented it will always use the same [color](https://www.w3schools.com/html/html_links_colors.asp).
 
-~~The world is flat.~~ Only Trump supporters could possibly believe this.
+~~The earth is flat.~~
 
 ruby
 : *an intense purplish-red color.*
@@ -48,12 +48,6 @@ Blockquote with <mark>citation</mark>:
 Subscript: H<sub>2</sub>O and Superscript: X<sup>2</sup>
 
 <br>
-
-Here are the buttons whose class names and colors can be easily customized:
-
-<p><center>
-<span class="added">added</span> <span class="removed">removed</span> <span class="improved">improved</span> <span class="fixed">fixed</span> <span class="soon">coming soon</span>
-</center></p>
 
 <br>
 
@@ -90,7 +84,7 @@ Here are the message boxes with the optional close button enabled:
 
 <br>
 
-Placing `inline code` within a sentence does not highlight the `syntax`.
+Placing `inline code` within a sentence does not highlight the syntax.
 
 A code block highlights the syntax and displays the language:
 

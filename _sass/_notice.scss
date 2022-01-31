@@ -19,9 +19,9 @@
   text-align: center;
 
   @media (prefers-color-scheme: light) {
-  color: #e1e1e1;
-  background-color: #343434;
-  border: .1rem solid #848484;
+  color: $light-scheme-text;
+  background-color: #e8f8fa;
+  border: .1rem solid #00b4cf;
     }
 }
 

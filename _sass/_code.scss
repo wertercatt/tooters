@@ -5,13 +5,13 @@
     font-family: $root-font-family;
 	font-size: 100%;
 	padding: 4px 4px;
-    background-color: #292929;
+    background-color: #434343;
     color: #f1f1f1;
 	white-space: nowrap;
     border-radius: .25em;
 
     @media (prefers-color-scheme: light) {
-        color: #373737;
+        color: #2a2a2a;
         background-color: $code-inline-bg-light;
         }
 }

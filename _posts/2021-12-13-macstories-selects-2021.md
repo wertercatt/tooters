@@ -3,7 +3,7 @@ layout: post
 title:  "MacStories Selects 2021"
 date:   2021-12-13
 categories: [Links]
-tags: [iOS, iPadOS, macOS, watchOS, tvOS, apps, design]
+tags: [apps, design]
 link: https://www.macstories.net/stories/macstories-selects-2021-recognizing-the-best-apps-of-the-year/
 ---
 

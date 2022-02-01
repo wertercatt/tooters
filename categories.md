@@ -4,7 +4,7 @@ permalink: /categories/
 title: Categories
 ---
 
-<h5>You can view posts by <a href="/vault/">date</a>, <a href="/categories/">category</a> or <a href="/tags/">tag</a>.</h5>
+<h5>View posts by <a href="/vault/">date</a>, <a href="/categories/">category</a> or <a href="/tags/">tag</a>.</h5>
 
 <div>
 {% assign categories_sorted = site.categories | sort %}

@@ -197,9 +197,9 @@ a[href^="#fnref:"] {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  color: $accent;
+  color: $text;
 
   @media (prefers-color-scheme: light) {
-  color: $light-scheme-accent;
+  color: $light-scheme-text;
     }
 }

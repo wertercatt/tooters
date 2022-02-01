@@ -67,7 +67,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 
 Total Published Posts: {{ site.posts.size }}<br>
 Total Words Written: {{ totalWords | number_with_delimiter: delimiter: ',' }}<br>
-Last Build: {{ site.time | date: '%R %Z' }} on {{ site.time | date_to_long_string: "ordinal", "US" }}
+Build: {{ site.time | date: '%R %Z' }} on {{ site.time | date_to_long_string: "ordinal", "US" }}
 
 ## <small>Privacy</small>
 

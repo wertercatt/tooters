@@ -69,6 +69,10 @@ Total Published Posts: {{ site.posts.size }}<br>
 Total Words Written: {{ totalWords | number_with_delimiter: delimiter: ',' }}<br>
 Build: {{ site.time | date: '%R %Z' }} on {{ site.time | date_to_long_string: "ordinal", "US" }}
 
+## <small>Contact</small>
+
+Email: <a href="mailto:hello@victorwynne.com">hello@victorwynne.com</a>
+
 ## <small>Privacy</small>
 
 Everything about this website is static. There is zero PHP, JavaScript, Python or Perl. No server databases, no analytics. Not even a single cookie. None of your personal data is collected, tracked or stored because it physically cannot be.

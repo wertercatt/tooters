@@ -40,3 +40,5 @@ fields:
   label: link
   config:
     required: true
+pages:
+- _posts/testing-post-from-forestry.md

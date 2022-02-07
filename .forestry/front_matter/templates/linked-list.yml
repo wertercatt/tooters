@@ -25,6 +25,10 @@ fields:
     use_select: true
     source:
       type: simple
+    options:
+    - links
+    - articles
+  hidden: false
 - type: list
   name: tags
   label: tags

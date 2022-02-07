@@ -26,7 +26,7 @@ fields:
     source:
       type: simple
     options:
-    - links
+    - Links
   hidden: false
 - type: list
   name: tags

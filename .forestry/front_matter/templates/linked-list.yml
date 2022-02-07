@@ -41,5 +41,3 @@ fields:
   label: link
   config:
     required: true
-pages:
-- _posts/2022-02-06-testing-post-from-forestry.md

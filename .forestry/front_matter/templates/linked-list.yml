@@ -27,7 +27,6 @@ fields:
       type: simple
     options:
     - links
-    - articles
   hidden: false
 - type: list
   name: tags

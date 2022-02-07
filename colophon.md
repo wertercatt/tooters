@@ -44,6 +44,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Homebrew](https://brew.sh)<br>
 [IINA](https://iina.io)<br>
 [iStat Menus](https://bjango.com/mac/istatmenus/)<br>
+[Kaleidoscope](https://kaleidoscope.app)
 [Nova](https://nova.app)<br>
 [Oh My Zsh](https://ohmyz.sh)<br>
 [Parcel](https://parcelapp.net)<br>

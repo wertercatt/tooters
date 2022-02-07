@@ -42,4 +42,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/testing-post-from-forestry.md
+- _posts/2022-02-06-testing-post-from-forestry.md

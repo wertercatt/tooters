@@ -40,5 +40,3 @@ fields:
   label: link
   config:
     required: true
-pages:
-- _posts/testing-forestry.io.md

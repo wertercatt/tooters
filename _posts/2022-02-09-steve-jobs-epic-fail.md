@@ -13,7 +13,7 @@ Chris Lydgate:
 >
 >Which is exactly what I love about it.
 >
->But in 1973, Steve was barely 18 years old. He didn’t know his purpose yet. The future titan of industry was a restless, barefoot wanderer who was into calligraphy, Dylan, Shakespeare, electronics, and dance. He was reading Buddhism in the library, scrounging in Commons, and making little blue boxes to cheat the phone company. These were important, even life-changing experiences, but they didn’t qualify him for a job—and no amount of résumé-polishing could disguise that fact. He was still growing, still exploring, still foolish.
+>But in 1973, Steve was barely 18 years old. He didn’t *know* his purpose yet. The future titan of industry was a restless, barefoot wanderer who was into calligraphy, Dylan, Shakespeare, electronics, and dance. He was reading Buddhism in the library, scrounging in Commons, and making little blue boxes to cheat the phone company. These were important, even life-changing experiences, but they didn’t qualify him for a job—and no amount of résumé-polishing could disguise that fact. He was still growing, still exploring, still foolish.
 >
 >I wish everyone could taste the excitement, the intensity that lies at the heart of true education, whether it takes place reading Plato’s Republic on the Great Lawn or wrestling with Zen koans on a TriMet bus. I wish everyone could have the time and space to kindle the spark of inspiration into a fire. And when it comes to reading—and writing—job applications, I wish everyone could remember that we, too, are unfinished projects, first drafts, rough cuts, works in progress. The main difference is that some of us have been going at it longer than others.
 

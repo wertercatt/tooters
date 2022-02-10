@@ -24,7 +24,7 @@ Microsoft under Satya Nadella has certainly made a huge change of course in that
 
 Put even more simply, Apple [doesn't allow](https://9to5mac.com/2021/12/09/microsoft-tried-to-negotiate-with-apple-to-release-xbox-exclusive-games-on-app-store/) video game streaming services like Microsoft's Xbox Game Pass on their App Store so please regulate the industry so that Apple has no choice but to provide us a native app presence. Netflix, Amazon Prime, Hulu, etc. are all allowed on the App Store but not Game Pass. It would be interesting to hear Apple try and explain why game streaming services aren't allowed. I cannot think of a single good reason outside of Apple feeling as though they aren't making enough money from the arrangement and that definitely will not fly with regulators.
 
-You can click through and read the entire post for all of their stated commitments, but number 10 really stands out as a jab at Apple:
+You can click through and read the entire post for all of their stated commitments, but number 10 really stood out to me when considering the recent news cycle:
 
 >We will not disadvantage developers if they choose to use a payment processing system other than ours or if they offer different terms and conditions in other app stores.
 

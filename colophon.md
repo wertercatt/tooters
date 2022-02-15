@@ -62,8 +62,8 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 
 ## <small>Stats</small>
 
-Total Posts: {{ site.posts.size }}<br>
-Total Words: {{ totalWords | number_with_delimiter: delimiter: ',' }}<br>
+Posts: {{ site.posts.size }}<br>
+Words: {{ totalWords | number_with_delimiter: delimiter: ',' }}<br>
 Build: {{ site.time | date: '%R %Z' }} on {{ site.time | date_to_long_string: "ordinal", "US" }}
 
 ## <small>Contact</small>

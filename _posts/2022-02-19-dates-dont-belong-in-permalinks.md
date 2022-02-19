@@ -19,5 +19,5 @@ Matt Gemmell:
 >
 >Here’s the thing, though: they’re *horrible*.
 
-Many of the reasons laid out in his post echo my own reasoning for doing the same for this site. I don't even display the date a post was published on my front page. If readers really want to know this information it is shown on each post and an available sorting option in the archive.
+Many of the reasons laid out in his post echo my own reasoning for doing the same for this site. I don't even display the date a post was published on my front page. If readers really want to know this information it is shown on each individual post and as an available sorting option in the archive.
 

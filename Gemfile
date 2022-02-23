@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "rake"
 gem "jekyll"
 gem "liquid-c"
 gem "jekyll-seo-tag"

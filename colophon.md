@@ -36,29 +36,35 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [AirBuddy](https://v2.airbuddy.app)<br>
 [AlDente](https://apphousekitchen.com)<br>
 [Apollo](https://apolloapp.io)<br>
-[BBEdit](https://www.barebones.com/products/bbedit/)<br>
-[CARROT Weather](https://www.meetcarrot.com/weather/)<br>
+[BBEdit](https://www.barebones.com/products/bbedit)<br>
+[CARROT Weather](https://www.meetcarrot.com/weather)<br>
 [DaisyDisk](https://daisydiskapp.com)<br>
-[Displaperture](https://manytricks.com/displaperture/)<br>
+[Displaperture](https://manytricks.com/displaperture)<br>
+[Downie](https://software.charliemonroe.net/downie)<br>
 [Fantastical](https://flexibits.com/fantastical)<br>
 [Homebrew](https://brew.sh)<br>
 [IINA](https://iina.io)<br>
-[iStat Menus](https://bjango.com/mac/istatmenus/)<br>
+[iStat Menus](https://bjango.com/mac/istatmenus)<br>
 [Kaleidoscope](https://kaleidoscope.app)<br>
 [Nova](https://nova.app)<br>
 [Oh My Zsh](https://ohmyz.sh)<br>
+[OpenEmu](https://openemu.org)<br>
+[Overcast](https://overcast.fm)<br>
 [Parcel](https://parcelapp.net)<br>
-[PCalc](https://www.pcalc.com/mac/)<br>
-[Pixelmator Pro](https://www.pixelmator.com/pro/)<br>
+[PCalc](https://www.pcalc.com/mac)<br>
+[Pixelmator Pro](https://www.pixelmator.com/pro)<br>
 [Raindrop](https://raindrop.io)<br>
+[Rectangle](https://rectangleapp.com)<br>
 [Reeder](https://reederapp.com)<br>
-[SF Symbols](https://developer.apple.com/sf-symbols/)<br>
+[ScreenFlow](https://www.telestream.net/screenflow/overview.htm)<br>
+[SF Symbols](https://developer.apple.com/sf-symbols)<br>
 [Sketch](https://www.sketch.com)<br>
 [TextMate](https://macromates.com)<br>
-[Transmit](https://panic.com/transmit/)<br>
-[Tweetbot](https://tapbots.com/tweetbot/mac/)<br>
+[Tower](https://www.git-tower.com/mac)<br>
+[Transmit](https://panic.com/transmit)<br>
+[Tweetbot](https://tapbots.com/tweetbot/mac)<br>
 [Typora](https://typora.io)<br>
-[Xcode](https://developer.apple.com/xcode/)
+[Xcode](https://developer.apple.com/xcode)
 
 ## <small>Stats</small>
 
@@ -73,5 +79,4 @@ Email: <a href="mailto:hello@victorwynne.com">hello@victorwynne.com</a>
 ## <small>Privacy</small>
 
 Everything about this website is static. There is zero PHP, JavaScript, Python or Perl. No server databases, no analytics. Not even a single cookie. None of your personal data is collected, tracked or stored because it physically cannot be. §
-
 <br>

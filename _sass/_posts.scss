@@ -92,6 +92,8 @@ figure {
   display: block;
   margin-top: 0;
   margin-bottom: 1.5rem;
+  font-variant: all-petite-caps;
+  font-size: 125%;
   color: #626162;
 
   @media (prefers-color-scheme: light) {
@@ -172,5 +174,6 @@ a:visited {
       overflow: hidden;
       white-space: nowrap;
       margin-top: 2rem;
-      font-variant: small-caps;
+      font-variant: all-petite-caps;
+      font-size: 125%;
   }

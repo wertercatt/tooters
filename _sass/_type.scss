@@ -98,7 +98,7 @@ span.link-arrow {
 font-size: 90%;
 
   @media (prefers-color-scheme: light) {
-  color: #ACACAC;
+  color: #acabaa;
     }
 }
 
@@ -112,7 +112,7 @@ blockquote {
   opacity: .9;
 
   @media (prefers-color-scheme: light) {
-  border-left: 2px solid #ACACAC;
+  border-left: 2px solid #acabaa;
     }
 
   p:last-child {
@@ -155,7 +155,7 @@ a[href^="#fn:"] {
 
   @media (prefers-color-scheme: light) {
   color: $light-scheme-accent;
-  border: 1.5px solid #7e7e7e;
+  border: 1.5px solid #acabaa;
     }
 }
 
@@ -177,7 +177,7 @@ a[href^="#fnref:"] {
   border: solid 1px #7e7e7e;
 
   @media (prefers-color-scheme: light) {
-  border: solid 1.5px #7e7e7e;
+  border: solid 1.5px #acabaa;
     }
   }
 }

@@ -94,7 +94,7 @@ abbr {
 }
 
 span.link-arrow {
-	color: #8f8f8e;
+	color: #626162;
 font-size: 90%;
 
   @media (prefers-color-scheme: light) {
@@ -108,7 +108,7 @@ blockquote {
   margin: 40px auto;
   font-size: 93%;
   position: relative;
-  border-left: 2px solid #343434;
+  border-left: 2px solid #626162;
   opacity: .9;
 
   @media (prefers-color-scheme: light) {
@@ -149,7 +149,7 @@ a[href^="#fn:"] {
   margin: 0 0.1em 0 0.2em;
   text-align: center;
   color: $accent;
-  border: 1.5px solid #7e7e7e;
+  border: 1.5px solid #626162;
   border-radius: 1em;
   vertical-align: middle;
 
@@ -174,7 +174,7 @@ a[href^="#fnref:"] {
 
 :target {
 	padding: 6px;
-  border: solid 1px #7e7e7e;
+  border: solid 1px #626162;
 
   @media (prefers-color-scheme: light) {
   border: solid 1.5px #acabaa;

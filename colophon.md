@@ -77,6 +77,7 @@ Build: {{ site.time | date: '%R %Z' }} on {{ site.time | date_to_long_string: "o
 ## <small>Contact</small>
 
 Email: <a href="mailto:hello@victorwynne.com">hello@victorwynne.com</a>
+PGP: [public key](key.txt)
 
 ## <small>Privacy</small>
 

@@ -148,7 +148,7 @@ a[href^="#fn:"] {
   margin: 0 0.1em 0 0.2em;
   text-align: center;
   color: $accent;
-  border: 1.5px solid #626162;
+  border: 1.5px solid #5a5959;
   border-radius: 1em;
   vertical-align: middle;
 
@@ -173,7 +173,7 @@ a[href^="#fnref:"] {
 
 :target {
 	padding: 6px;
-  border: solid 1px #626162;
+  border: solid 1px #5a5959;
 
   @media (prefers-color-scheme: light) {
   border: solid 1.5px #acabaa;

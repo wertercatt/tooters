@@ -1,7 +1,7 @@
 * {
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,
@@ -16,7 +16,7 @@ html {
   line-height: $root-line-height;
 
   @media (min-width: $large-breakpoint) {
-    font-size: $large-font-size;
+  font-size: $large-font-size;
   }
 }
 
@@ -24,13 +24,13 @@ body {
   color: $text;
   background-color: $bg;
   -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 
 
   @media (prefers-color-scheme: light) {
   color: $light-scheme-text;
   background-color: $light-scheme-bg;
-    }
+  }
 
 }
 
@@ -39,18 +39,18 @@ a {
   color: $accent;
   text-decoration: none;
 
-   @media (prefers-color-scheme: light) {
-   color: $light-scheme-accent;
-     }
+  @media (prefers-color-scheme: light) {
+  color: $light-scheme-accent;
+  }
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-decoration: none;
+  text-decoration: none;
   }
 
   strong {
-    color: inherit;
+  color: inherit;
   }
 }
 
@@ -69,8 +69,8 @@ table {
   border-collapse: collapse;
 
   @media (prefers-color-scheme: light) {
-    border: 1px solid #555555;
-    }
+  border: 1px solid #555555;
+  }
 }
 
 td,

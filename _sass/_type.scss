@@ -9,20 +9,20 @@ h1, h2, h3, h4, h6 {
   position: relative;
 
   @media (prefers-color-scheme: light) {
-   color: $light-scheme-header;
-     }
+  color: $light-scheme-header;
+  }
 }
 
 h3::before {
-    content: "#";
-    color: $header-before;
-    left: -1em;
-    top: 0;
+  content: "#";
+  color: $header-before;
+  left: -1em;
+  top: 0;
 	position: absolute;
 
   @media (prefers-color-scheme: light) {
-   color: $light-scheme-header-before;
-     }
+  color: $light-scheme-header-before;
+  }
 }
 
 h1 {
@@ -73,7 +73,7 @@ hr {
   border-top: 1px solid $light-scheme-text;
   border-bottom: 1px solid $light-scheme-text;
   opacity: .2;
-     }
+  }
 }
 
 abbr {
@@ -85,11 +85,11 @@ abbr {
 
   @media (prefers-color-scheme: light) {
   color: $light-scheme-text;
-    }
+  }
 
   &[title] {
-    cursor: help;
-    border-bottom: 1px dotted #e5e5e5;
+  cursor: help;
+  border-bottom: 1px dotted #e5e5e5;
   }
 }
 
@@ -99,7 +99,7 @@ font-size: 90%;
 
   @media (prefers-color-scheme: light) {
   color: #acabaa;
-    }
+  }
 }
 
 blockquote {
@@ -112,15 +112,15 @@ blockquote {
 
   @media (prefers-color-scheme: light) {
   border-left: 1.5px solid #acabaa;
-    }
+  }
 
   p:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
   }
 
   @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.5rem;
+  padding-right: 5rem;
+  padding-left: 1.5rem;
   }
 }
 
@@ -129,14 +129,14 @@ figure {
 }
 
 mark {
-    background: $accent;
-    color: $text;
-	  padding: 2px 2px;
+  background: $accent;
+  color: $text;
+	padding: 2px 2px;
 
-    @media (prefers-color-scheme: light) {
-    background: $light-scheme-accent;
-    color: $light-scheme-text;
-      }
+  @media (prefers-color-scheme: light) {
+  background: $light-scheme-accent;
+  color: $light-scheme-text;
+  }
 }
 
 // Footnote number within body text
@@ -155,7 +155,7 @@ a[href^="#fn:"] {
   @media (prefers-color-scheme: light) {
   color: $light-scheme-accent;
   border: 1.5px solid #acabaa;
-    }
+  }
 }
 
 // Back to footnote link
@@ -168,8 +168,8 @@ a[href^="#fnref:"] {
 
 // List of footnotes
 .footnotes {
-    margin-top: 2rem;
-    font-size: 80%;
+  margin-top: 2rem;
+  font-size: 80%;
 
 :target {
 	padding: 6px;
@@ -177,8 +177,8 @@ a[href^="#fnref:"] {
 
   @media (prefers-color-scheme: light) {
   border: solid 1.5px #acabaa;
-    }
   }
+ }
 }
 
 .reversefootnote {
@@ -187,7 +187,7 @@ a[href^="#fnref:"] {
 
  @media (prefers-color-scheme: light) {
  color: $light-scheme-accent;
-   }
+  }
 }
 
 // Custom type
@@ -201,5 +201,5 @@ a[href^="#fnref:"] {
 
   @media (prefers-color-scheme: light) {
   color: $light-scheme-text;
-    }
+  }
 }

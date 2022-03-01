@@ -17,16 +17,16 @@
   padding-right: 0px;
 
   @media (prefers-color-scheme: light) {
-   color: $light-scheme-text;
-     }
+  color: $light-scheme-text;
+  }
 
   a {
-    color: inherit;
+  color: inherit;
   }
 
   small {
-    margin-left: 3px;
-    font-size: 80%;
+  margin-left: 3px;
+  font-size: 80%;
   }
 }
 
@@ -48,5 +48,5 @@ ul#navigation-list {
 	padding-left: 6.5px;
   padding-right: 6.5px;
 	margin: 0;
-    }
+  }
 }

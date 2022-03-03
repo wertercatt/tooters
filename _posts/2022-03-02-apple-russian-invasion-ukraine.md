@@ -7,7 +7,7 @@ tags: [apple, politics, life]
 
 ---
 
-I have spent the last week paying constant close attention to the situation unfolding in Ukraine. It is beyond horrific and depressing. So many angles and different aspects to follow it can be somewhat impossible to keep up. One that stuck out to me (for obvious reason) is Apple's response to the invasion.
+I have spent the last week paying close attention to the situation unfolding in Ukraine. It is beyond horrific and depressing. There are so many angles, and different aspects to follow it can be somewhat impossible to keep up. One that sticks out to me (for obvious reason) is Apple's response to the invasion.
 
 Apple's statement to the media:
 
@@ -26,3 +26,4 @@ Apple's statement to the media:
 
 I'm glad that Tim Cook and the company as a whole made the morally correct decision and want to land on the right side of things here.
 
+Glory to Ukraine! 🇺🇦

@@ -5,13 +5,12 @@ layout: default
 <article class="post">
 
 {% if page.link %}
-<h2 class="post-title"><a href="{{ page.link }}">
-  {{ page.title | smartify }} <span class="link-arrow">&rarr;</span></a>
-</h2>
+<h2 class="post-title">{{ page.title | smartify }} <span class="link-arrow">&rarr;</span></h2>
   {% else %}
 <h2 class="post-title">{{ page.title | smartify }}</h2>
   {% endif %}
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%A" }}, {{ page.date | date_to_long_string: "ordinal", "US" }}
+
   {% if post %}
   {% assign categories = post.categories %}
   {% else %}
@@ -22,15 +21,12 @@ layout: default
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>{% unless forloop.last %},{% endunless %}
   {% endfor %}</time>
 
-
-
-
-  {{ content | smartify }}
-
-  <br><br>
   {% if page.link %}<span class="source" role="doc-endnotes">
   source: <a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a>
   </span>{% endif %}
+
+  {{ content | smartify }}
+  <br>
   <div class="tag-list">
   {% if post %}
   {% assign tags = post.tags %}

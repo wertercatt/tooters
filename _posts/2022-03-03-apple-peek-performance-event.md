@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple announces Peek Performance event on March 8th"
+title: "Apple announces Peek Performance event"
 date: 2022-03-03 11:30
 categories: [Links]
 tags: [apple, marketing]

@@ -24,6 +24,6 @@ Apple's statement to the media:
 >We will continue to evaluate the situation and are in communication with relevant governments on the
 >actions we are taking. We join all those around the world who are calling for peace."
 
-I'm glad that Tim Cook and the company as a whole made the morally correct decision and want to land on the right side of things here.
+I'm glad that Tim Cook, and the company as a whole made the morally correct decision here. They will land on the right side of things.
 
 Glory to Ukraine! 🇺🇦

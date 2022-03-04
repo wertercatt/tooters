@@ -94,11 +94,11 @@ abbr {
 }
 
 span.link-arrow {
-	color: #5a5959;
+	color: $element;
 font-size: 90%;
 
   @media (prefers-color-scheme: light) {
-  color: #acabaa;
+  color: $light-scheme-element;
   }
 }
 
@@ -108,10 +108,10 @@ blockquote {
   margin: 40px auto;
   font-size: 93%;
   position: relative;
-  border-left: 1.5px solid #5a5959;
+  border-left: 1.5px solid $element;
 
   @media (prefers-color-scheme: light) {
-  border-left: 1.5px solid #acabaa;
+  border-left: 1.5px solid $light-scheme-element;
   }
 
   p:last-child {
@@ -148,13 +148,13 @@ a[href^="#fn:"] {
   margin: 0 0.1em 0 0.2em;
   text-align: center;
   color: $accent;
-  border: 1.5px solid #5a5959;
+  border: 1.5px solid $element;
   border-radius: 1em;
   vertical-align: middle;
 
   @media (prefers-color-scheme: light) {
   color: $light-scheme-accent;
-  border: 1.5px solid #acabaa;
+  border: 1.5px solid $light-scheme-element;
   }
 }
 
@@ -173,10 +173,10 @@ a[href^="#fnref:"] {
 
 :target {
 	padding: 6px;
-  border: solid 1px #5a5959;
+  border: solid 1px $element;
 
   @media (prefers-color-scheme: light) {
-  border: solid 1.5px #acabaa;
+  border: solid 1.5px $light-scheme-element;
   }
  }
 }

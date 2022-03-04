@@ -13,4 +13,4 @@ The theme is available on GitHub as [source code](https://github.com/victorwynne
 
 ***
 
-[^1]: I wanted to avoid any future issues that could arise by keeping the project name identical. Both confusion from duplicate repo naming on GitHub and gem issues so a rename was the correct decision. The original git repo and Ruby gem remain online and accessible for historical' sake.
+[^1]: I wanted to avoid any future issues that could arise by keeping the project name identical. Both confusion from duplicate repo naming on GitHub and gem issues so a rename was the correct decision. The original git repo and Ruby gem remain online and accessible for historical sake.

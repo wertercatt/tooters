@@ -76,6 +76,7 @@ Build: {{ site.time | date: '%R %Z' }} on {{ site.time | date_to_long_string: "o
 
 ## <small>Contact</small>
 
+Twitter: [@victorwynne_com](https://twitter.com/victorwynne_com)
 Email: <a href="mailto:hello@victorwynne.com">hello@victorwynne.com</a><br>
 PGP: [public key](https://victorwynne.com/key.txt)
 

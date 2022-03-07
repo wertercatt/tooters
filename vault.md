@@ -17,7 +17,7 @@ title: Vault
 <h2><small>{{ thisyear }} <small><strong><sup>{{ counter }}</sup></strong></small></small></h2>
 
 {% assign fli = forloop.index | minus: counter %}
-{% for post2 in site.posts limit: counter offset: fli %} 
+{% for post2 in site.posts limit: counter offset: fli %}
 
 <a href="{{ post2.url }}">{{ post2.title }}</a>&nbsp;&nbsp;
 <small><small><time datetime="{{ post2.date | date_to_xmlschema }}">{{ post2.date | date: "%-d %b %Y" }}</time></small></small>
@@ -27,3 +27,4 @@ title: Vault
 {% endif %}
 {% endfor %}
 </div>
+<br><br>

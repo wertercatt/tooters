@@ -11,7 +11,7 @@ title: Categories
 {% for category in categories_sorted %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-	
+
     <div id="#{{ category_name | slugize }}"></div>
 
     <h2 class="category-head">
@@ -27,3 +27,4 @@ title: Categories
   </div>
 {% endfor %}
 </div>
+<br><br>

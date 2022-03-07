@@ -18,7 +18,7 @@ title: Tags
 {% for tag in tags_sorted %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-	
+
     <div id="#{{ tag_name | slugize }}"></div>
 
     <h2 class="tag-head"><small>{{ tag_name }} <small><sup><strong>{{tag[1].size}}</strong></sup></small></small></h2>
@@ -33,5 +33,4 @@ title: Tags
   </div>
 {% endfor %}
 </div>
-
-
+<br><br>

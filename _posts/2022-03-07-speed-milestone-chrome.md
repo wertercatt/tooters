@@ -4,7 +4,7 @@ title: "A new speed milestone for Chrome"
 date: 2022-03-07 13:10
 categories: [Links]
 tags: [google, macOS]
-link: https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome/
+link: https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html
 ---
 
 >We go deep on every platform where Chrome runs to provide the fastest possible experience. We’re excited to announce that in M99, Chrome on Mac has achieved the highest score to date of any browser – 300 – in Apple’s [Speedometer](https://browserbench.org/Speedometer2.0/) browser responsiveness benchmark.

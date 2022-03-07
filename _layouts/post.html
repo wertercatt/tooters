@@ -18,12 +18,12 @@ layout: default
   {% endif %}
   {% if categories.size > 0 %}•{% endif %}
   {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>{% unless forloop.last %},{% endunless %}
-  {% endfor %}</time>
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>{% unless forloop.last %},{% endunless %}{% endfor %}
+  </time>
 
-  {% if page.link %}<span class="source" role="doc-endnotes">
-  source: <a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a>
-  </span>{% endif %}
+  {% if page.link %}
+  <span class="source" role="doc-endnotes">source: <a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a></span>
+  {% endif %}
 
   {{ content | smartify }}
   <br>

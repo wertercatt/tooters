@@ -94,8 +94,8 @@ abbr {
 }
 
 span.link-arrow {
-	color: $element;
-font-size: 90%;
+  color: $element;
+  font-size: 90%;
 
   @media (prefers-color-scheme: light) {
   color: $light-scheme-element;
@@ -187,7 +187,7 @@ a[href^="#fnref:"] {
 
  @media (prefers-color-scheme: light) {
  color: $light-scheme-accent;
-  }
+ }
 }
 
 // Custom type

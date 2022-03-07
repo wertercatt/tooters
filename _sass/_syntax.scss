@@ -16,9 +16,9 @@ $code-white:          #c7c7c7;
 // Syntax highlighting styles
 
 .highlight .hll {
-	
-	background-color: $code-block-bg; 
-	
+
+	background-color: $code-block-bg;
+
 	@media (prefers-color-scheme: light) {
 	background-color: $code-block-bg-light;
 	}

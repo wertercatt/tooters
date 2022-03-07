@@ -51,3 +51,4 @@ Additional supported and styled front matter:
 ## <small>License</small>
 
 Quattle is free software distributed under a [MIT license](https://github.com/victorwynne/quattle/blob/main/LICENSE).
+<br><br>

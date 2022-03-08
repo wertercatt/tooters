@@ -143,9 +143,9 @@ mark {
 a[href^="#fn:"] {
   display: inline-block;
   position: relative;
-  font-weight: bold;
-  min-width: 35px;
-  margin: 0 0.1em 0 0.2em;
+  font-size: 95%;
+  min-width: 50px;
+  margin: 0 0.2em 0 0.2em;
   text-align: center;
   color: $accent;
   border: 1.5px solid $element;

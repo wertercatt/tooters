@@ -37,7 +37,9 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [AirBuddy](https://v2.airbuddy.app)<br>
 [AlDente](https://apphousekitchen.com)<br>
 [Apollo](https://apolloapp.io)<br>
+[Audio Hijack](https://rogueamoeba.com/audiohijack)<br>
 [BBEdit](https://www.barebones.com/products/bbedit)<br>
+[Bear](https://bear.app)<br>
 [CARROT Weather](https://www.meetcarrot.com/weather)<br>
 [DaisyDisk](https://daisydiskapp.com)<br>
 [Displaperture](https://manytricks.com/displaperture)<br>
@@ -47,6 +49,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [IINA](https://iina.io)<br>
 [iStat Menus](https://bjango.com/mac/istatmenus)<br>
 [Kaleidoscope](https://kaleidoscope.app)<br>
+[Keyboard Maestro](https://www.keyboardmaestro.com/main/)<br>
 [Nova](https://nova.app)<br>
 [Oh My Zsh](https://ohmyz.sh)<br>
 [OpenEmu](https://openemu.org)<br>

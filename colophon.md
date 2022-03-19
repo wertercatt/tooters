@@ -45,6 +45,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Displaperture](https://manytricks.com/displaperture)<br>
 [Downie](https://software.charliemonroe.net/downie)<br>
 [Fantastical](https://flexibits.com/fantastical)<br>
+[Final Cut Pro](https://www.apple.com/final-cut-pro/)<br>
 [Homebrew](https://brew.sh)<br>
 [IINA](https://iina.io)<br>
 [iStat Menus](https://bjango.com/mac/istatmenus)<br>
@@ -65,6 +66,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [SF Symbols](https://developer.apple.com/sf-symbols)<br>
 [Sketch](https://www.sketch.com)<br>
 [TextMate](https://macromates.com)<br>
+[Things](https://culturedcode.com/things/)<br>
 [Tower](https://www.git-tower.com/mac)<br>
 [Transmit](https://panic.com/transmit)<br>
 [Tweetbot](https://tapbots.com/tweetbot/mac)<br>

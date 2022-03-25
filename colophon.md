@@ -40,6 +40,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Audio Hijack](https://rogueamoeba.com/audiohijack)<br>
 [BBEdit](https://www.barebones.com/products/bbedit)<br>
 [Bear](https://bear.app)<br>
+[Cakebrew](https://www.cakebrew.com)<br>
 [CARROT Weather](https://www.meetcarrot.com/weather)<br>
 [DaisyDisk](https://daisydiskapp.com)<br>
 [Displaperture](https://manytricks.com/displaperture)<br>

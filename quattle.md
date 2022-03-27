@@ -7,7 +7,7 @@ title: Quattle
 Quattle is a modern and customizable theme for the static site generator Jekyll.
 
 ## <small>Latest Release</small>
-[v1.5.3 (a3beafb)](https://github.com/victorwynne/quattle/commit/a3beafb0c747555d81d80331e7716a33d76b86c5)
+[v1.5.4 (86dbcb9)](https://github.com/victorwynne/quattle/commit/86dbcb93b07609de757a62c01601f44b111b7e6c)
 
 ## <small>Demo</small>
 [quattle.victorwynne.com](https://quattle.victorwynne.com)

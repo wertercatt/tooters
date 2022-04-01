@@ -23,7 +23,7 @@ This summarization is neither fair nor accurate. See the tweet in question below
 <figcaption>The now deleted Tweet posted by the Windows team.</figcaption>
 </figure>
 
-The tweet was published with a service called [Sprinklr](https://www.sprinklr.com), and included a link to an article published on [Bustle](https://www.bustle.com/life/why-is-my-computer-so-slow?ocid=usoc_edu_cons_win_eng_tw_3.3). The article was the original source of the M1 iMac image[^1], and the article covers Macs as well as Windows PCs. The Sprinklr service automatically generated rich media it sourced from the article to include in the tweet. The outcome was funny, and also purely coincidental. The person responsible for managing this Twitter account for the Windows team could have noticed the technical issue with the image that was populated, but is that something we can assume they should know? I don't believe that it is.
+The tweet was published with a service called [Sprinklr](https://www.sprinklr.com), and included a link to an article published on [Bustle](https://www.bustle.com/life/why-is-my-computer-so-slow?ocid=usoc_edu_cons_win_eng_tw_3.3). The article was the original source of the M1 iMac image[^1], and the article covers Macs as well as Windows PCs. The Sprinklr service automatically generated rich media it sourced from the article to include in the tweet. The outcome was funny, and also purely coincidental. The person responsible for managing this Twitter account for the Windows team did not choose this image at all. You could say that they should have noticed the technical issue with the image that was populated, but is that something we can assume they should know? I don't believe that it is.
 
 ---
 

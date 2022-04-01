@@ -58,6 +58,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Overcast](https://overcast.fm)<br>
 [Parcel](https://parcelapp.net)<br>
 [Pastel](https://www.highcaffeinecontent.com/blog/20200610-Pastel)<br>
+[Path Finder](https://www.cocoatech.io)<br>
 [PCalc](https://www.pcalc.com/mac)<br>
 [Pixelmator Pro](https://www.pixelmator.com/pro)<br>
 [Raindrop](https://raindrop.io)<br>

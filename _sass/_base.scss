@@ -25,10 +25,16 @@ body {
   background-color: $bg;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  ::selection {
+  background: #ff453a;
+  }
 
   @media (prefers-color-scheme: light) {
   color: $light-scheme-text;
   background-color: $light-scheme-bg;
+  ::selection {
+  background: #2eb1c6;
+  }
   }
 }
 

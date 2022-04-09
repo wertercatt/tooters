@@ -3,7 +3,7 @@ layout: post
 title: "Joni Mitchell removes music from Spotify in protest of Joe Rogan’s podcast"
 date: 2022-01-29 22:45
 categories: [Links]
-tags: [spotify, idiocy]
+tags: [spotify]
 link: https://www.theverge.com/2022/1/29/22907696/joni-mitchell-spotify-joe-rogan-podcast-misinformation-covid-19
 ---
 

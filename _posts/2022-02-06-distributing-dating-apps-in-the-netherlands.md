@@ -3,7 +3,7 @@ layout: post
 title: "Distributing dating apps in the Netherlands"
 date: 2022-02-06 14:30
 categories: [Links]
-tags: [apple, business, idiocy]
+tags: [apple, business]
 link: https://developer.apple.com/support/storekit-external-entitlement/
 ---
 

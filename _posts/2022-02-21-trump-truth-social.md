@@ -3,7 +3,7 @@ layout: post
 title: "Trump's TRUTH Social launches"
 date: 2022-02-21 22:20
 categories: [Links]
-tags: [politics, idiocy]
+tags: [politics]
 link: https://techcrunch.com/2022/02/21/trumps-truth-social-app-launch-store-errors/
 ---
 

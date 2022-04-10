@@ -17,3 +17,10 @@ A modern, responsive and customizable theme for the static site generator Jekyll
 
 [Learn More](/quattle/)
 <br><br>
+
+## <small>Olena</small>
+
+This is a distributed denial-of-service (DDoS) concept written entirely in JavaScript, and very simply browser based. Errored responses are the outcome you want to see occur. High CPU usage is an expected and normal behavior due to the high number of concurrent requests being performed per target.
+
+[Learn More](/olena/)
+<br><br>

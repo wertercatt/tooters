@@ -3,7 +3,7 @@ layout: post
 title:  "Suddenly, Tesla’s Elon Musk is Twitter’s biggest stakeholder"
 date:   2022-04-04 09:45
 categories: [Links]
-tags: [business]
+tags: [business, twitter, elon musk]
 link: https://www.seattletimes.com/business/musk-takes-9-2-stake-in-twitter/
 ---
 

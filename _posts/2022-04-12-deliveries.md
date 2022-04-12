@@ -17,4 +17,4 @@ Mike Piontek:
 >
 >We understand this will make Deliveries less useful for many of you, and you may decide to take a different approach to tracking your packages. For those of you that choose to continue using Deliveries, we’ll do our best to keep making it as useful as we’re able to. Thank you for all of your support over the years.
 
-My first time using Deliveries was as a Dashboard widget on Mac OS X Tiger. This is definitely sad to see, and delivery companies closing off their APIs is entirely to blame.
+My first time using Deliveries was as a Dashboard widget on Mac OS X Tiger. This is definitely sad to see, and shipping companies closing off their APIs is entirely to blame.

@@ -3,7 +3,7 @@ layout: post
 title:  "Elon Musk won’t join Twitter’s board after all"
 date:   2022-04-11 10:05
 categories: [Links]
-tags: [business, twitter, elon musk]
+tags: [business, elon musk, twitter]
 link: https://www.theverge.com/2022/4/10/23019802/elon-musk-not-joining-twitter-board-announced
 ---
 

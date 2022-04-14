@@ -21,4 +21,4 @@ Thomas Ricker:
 >
 >“I would need to reconsider my position as shareholder,” says Musk if his offer is not accepted.
 
-As I said [before](/elon-musk-not-joining-twitter-board/), a lot more entertaining.
+As I said [before](/elon-musk-not-joining-twitter-board/), a *lot* more entertaining.

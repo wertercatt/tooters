@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Gospel of Donald Trump Jr."
+title:  "The gospel of Donald Trump Jr."
 date:   2021-12-31
 categories: [Links]
 tags: [politics]

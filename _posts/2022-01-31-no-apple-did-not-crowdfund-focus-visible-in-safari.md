@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No, Apple Did Not Crowdfund :focus-visible in Safari"
+title: "No, Apple did not crowdfund :focus-visible in Safari"
 date: 2022-01-31 15:50
 categories: [Links]
 tags: [apple, development]

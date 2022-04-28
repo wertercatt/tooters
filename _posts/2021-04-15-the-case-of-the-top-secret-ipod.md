@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Case of the Top Secret iPod"
+title: "The case of the top secret iPod"
 date: 2021-04-15 15:20:00
 categories: [Links]
 tags: [apple, government, culture]

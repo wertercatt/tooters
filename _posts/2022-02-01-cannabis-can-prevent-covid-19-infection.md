@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cannabis Can Prevent COVID-19 Infection"
+title: "Cannabis can prevent COVID-19 infection"
 date: 2022-02-01 02:35
 categories: [Links]
 tags: [coronavirus, cannabis]

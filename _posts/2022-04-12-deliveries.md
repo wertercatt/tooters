@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Future of Deliveries"
+title: "The future of Deliveries"
 date: 2022-04-12 16:40
 categories: [Links]
 tags: [apps]

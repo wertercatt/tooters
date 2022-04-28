@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Is Windows Called Windows?"
+title: "Why is Windows called Windows?"
 date: 2022-02-07 21:30
 categories: [Links]
 tags: [microsoft, windows, history]

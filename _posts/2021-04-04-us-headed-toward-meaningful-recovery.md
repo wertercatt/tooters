@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The U.S. Seems to be Headed Toward a Meaningful Recovery"
+title: "The U.S. seems to be headed toward a meaningful recovery"
 date: 2021-04-04 23:15:00
 categories: [Links]
 tags: [coronavirus, politics]

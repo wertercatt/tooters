@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apple Silicon temperatures"
+title:  "Apple silicon temperatures"
 date:   2021-11-17 13:25:00
 categories: [Articles]
 tags: [apple silicon]

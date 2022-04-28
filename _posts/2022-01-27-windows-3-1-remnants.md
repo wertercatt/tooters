@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 3.1 Remnants Spotted in Windows 11"
+title: "Windows 3.1 remnants spotted in Windows 11"
 date: 2022-01-27
 categories: [Links]
 tags: [windows, design]

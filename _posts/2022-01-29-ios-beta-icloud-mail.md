@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "iOS 15.4 Beta Adds Support for Setting Up Custom Email Domains With iCloud Mail"
-date: 2022-01-29 23:00  
+title: "iOS 15.4 beta adds support for setting up custom email domains with iCloud Mail"
+date: 2022-01-29 23:00
 categories: [Links]
 tags: [iOS]
 link: https://www.macrumors.com/2022/01/27/ios-15-4-custom-email-domains/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple Should Bring Back Dashboard"
+title: "Apple should bring back Dashboard"
 date: 2022-01-29 18:50
 categories: [Links]
 tags: [macOS, apple]

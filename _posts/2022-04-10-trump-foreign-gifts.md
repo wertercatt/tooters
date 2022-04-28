@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trump Officials Failed to Provide Accounting of Foreign Gifts"
+title:  "Trump officials failed to provide accounting of foreign gifts"
 date:   2022-04-10 00:15
 categories: [Links]
 tags: [politics]

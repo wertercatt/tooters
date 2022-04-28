@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "White House Logs Show 7-Hour Gap in Trump’s Calls on Jan. 6"
+title:  "White House logs show 7-hour gap in Trump’s calls on Jan. 6"
 date:   2022-03-29 20:15
 categories: [Links]
 tags: [politics]

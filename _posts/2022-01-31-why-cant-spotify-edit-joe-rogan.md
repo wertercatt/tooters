@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Can’t Spotify Edit Joe Rogan?"
+title: "Why can’t Spotify edit Joe Rogan?"
 date: 2022-01-31 12:10
 categories: [Links]
 tags: [spotify]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I Love This Epic Fail by Steve Jobs"
+title: "Why I love this epic fail by Steve Jobs"
 date: 2022-02-09 08:30
 categories: [Links]
 tags: [steve jobs]

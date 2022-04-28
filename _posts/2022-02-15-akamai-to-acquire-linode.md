@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Akamai to Acquire Linode"
+title: "Akamai to acquire Linode"
 date: 2022-02-15 21:23
 categories: [Links]
 tags: [business, development]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "iCloud+ Custom Email Domains should be better"
+title:  "iCloud+ custom email domains should be better"
 date:   2022-04-07 10:20
 categories: [Links]
 tags: [apple, iCloud]

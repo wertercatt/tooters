@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rest in Power, Betty White"
+title:  "Rest in power, Betty White"
 date:   2021-12-31 12:00:00
 categories: [Links]
 tags: [life, history]

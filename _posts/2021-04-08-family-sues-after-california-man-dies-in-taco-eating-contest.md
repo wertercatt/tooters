@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Family Sues After California Man Dies in Taco Eating Contest"
+title: "Family sues after California man dies in taco eating contest"
 date: 2021-04-08 16:15:00
 categories: [Links]
 tags: [life, news, humor]

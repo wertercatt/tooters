@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elon Musk to Acquire Twitter"
+title: "Elon Musk to acquire Twitter"
 date:   2022-04-26 19:55
 categories: [Links]
 tags: [business, elon musk, twitter]

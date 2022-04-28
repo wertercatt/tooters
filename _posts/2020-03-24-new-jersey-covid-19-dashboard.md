@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Jersey COVID-19 Dashboard"
+title:  "New Jersey COVID-19 dashboard"
 date:   2020-03-24 16:20:45
 categories: [Links]
 tags: [coronavirus]

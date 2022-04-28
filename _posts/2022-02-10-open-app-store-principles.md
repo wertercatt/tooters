@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open App Store Principles"
+title: "Open App Store principles"
 date: 2022-02-10 01:20
 categories: [Articles]
 tags: [microsoft, apple, google, business, politics]

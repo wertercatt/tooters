@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No, we shouldn’t make DST Permanent"
+title:  "No, we shouldn’t make DST permanent"
 date:   2022-03-15 19:45
 categories: [Links]
 tags: [life, science]

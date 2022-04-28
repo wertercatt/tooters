@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASA's Webb Telescope Launches"
+title:  "NASA's Webb telescope launches"
 date:   2021-12-25
 categories: [Links]
 tags: [space, science, history]

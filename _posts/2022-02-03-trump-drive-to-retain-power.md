@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power"
+title: "Trump’s words, and deeds, reveal depths of his drive to retain power"
 date: 2022-02-03 02:05
 categories: [Links]
 tags: [politics]

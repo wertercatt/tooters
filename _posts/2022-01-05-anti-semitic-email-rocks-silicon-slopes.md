@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anti-Semitic Email Rocks the Silicon Slopes"
+title:  "Anti-Semitic email rocks the silicon slopes"
 date:   2022-01-05
 categories: [Links]
 tags: [silicon slopes, idiocy]

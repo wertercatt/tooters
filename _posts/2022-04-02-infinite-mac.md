@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infinite Mac: An Instant-Booting Quadra in Your Browser"
+title:  "Infinite Mac: an instant-booting Quadra in your browser"
 date:   2022-04-02 09:40
 categories: [Links]
 tags: [macOS, history]

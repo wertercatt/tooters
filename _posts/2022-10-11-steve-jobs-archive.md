@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The Steve Jobs Archive”
-date:   2022-10-11 20:04
+date: 2022-10-11 20:04
 categories: [Links]
 tags: [apple, history, steve jobs]
 link: https://stevejobsarchive.com
----
+——-
 
 Steve Jobs in 2010:
 

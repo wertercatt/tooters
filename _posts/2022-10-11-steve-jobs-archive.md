@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "The Steve Jobs Archive”
-date: 2022-10-11 20:04
+title:  "The Steve Jobs Archive”
+date:   2022-10-11 21:35
 categories: [Links]
-tags: [apple, history, steve jobs]
-link: https://stevejobsarchive.com
+tags: [steve jobs, history]
 ---
+
+Steve Jobs in 2010:
 
 >I grow little of the food I eat, and of the little I do grow I did not breed or perfect the seeds.
 >

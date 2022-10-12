@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “The Steve Jobs Archive”
+title: "The Steve Jobs Archive"
 date:   2022-10-11
 categories: [Links]
 tags: [steve jobs]

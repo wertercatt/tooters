@@ -48,6 +48,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Drafts](https://getdrafts.com/)<br>
 [Fantastical](https://flexibits.com/fantastical)<br>
 [Final Cut Pro](https://www.apple.com/final-cut-pro/)<br>
+[Flighty](https://www.flightyapp.com)<br>
 [Homebrew](https://brew.sh)<br>
 [IINA](https://iina.io)<br>
 [iStat Menus](https://bjango.com/mac/istatmenus)<br>

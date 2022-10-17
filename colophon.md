@@ -43,6 +43,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Cakebrew](https://www.cakebrew.com)<br>
 [CARROT Weather](https://www.meetcarrot.com/weather)<br>
 [DaisyDisk](https://daisydiskapp.com)<br>
+[Deliveries](https://deliveries.app/en.html)<br>
 [Displaperture](https://manytricks.com/displaperture)<br>
 [Downie](https://software.charliemonroe.net/downie)<br>
 [Drafts](https://getdrafts.com/)<br>

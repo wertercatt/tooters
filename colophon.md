@@ -76,6 +76,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Transmit](https://panic.com/transmit)<br>
 [Tweetbot](https://tapbots.com/tweetbot/mac)<br>
 [Typora](https://typora.io)<br>
+[WaterMinder](https://waterminder.com)<br>
 [Working Copy](https://workingcopyapp.com)<br>
 [Xcode](https://developer.apple.com/xcode)
 

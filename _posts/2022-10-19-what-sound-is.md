@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sound"
-date: 2022-10-19 23:35
+date: 2022-10-19 19:35
 categories: [Links]
 tags: [audio, science]
 link: https://ciechanow.ski/sound/

@@ -2,7 +2,7 @@
 layout: post
 title:  "Noir is now Quattle"
 date:   2021-12-15
-categories: [Announcements]
+categories: [Articles]
 tags: [quattle, jekyll, design, development]
 last_modified_at: 2022-01-03
 ---

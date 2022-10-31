@@ -2,7 +2,7 @@
 layout: post
 title:  "Noir"
 date:   2020-01-21 12:30:00
-categories: [Announcements]
+categories: [Articles]
 tags: [development, design, jekyll]
 last_modified_at: 2022-01-28
 ---

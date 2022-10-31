@@ -20,13 +20,13 @@ Fully responsive with an emphasis on mobile friendly design, typography and inte
 
 HTML, SASS, XML, supporting assets and config files are included for the theme's design and integration with Jekyll
 
+[Starlight](https://github.com/victorwynne/starlight), a [Rouge](https://github.com/rouge-ruby/rouge) compatible SCSS syntax highlighter for code blocks
+
 Manifest.json to function as a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
+`$variables` based colors
+
 CSS media feature `prefers-color-scheme` to detect if the visitor’s device has requested a light or dark mode
-
-`$variables` based colors for accent, inline code and styling of elements
-
-[Starlight](https://github.com/victorwynne/starlight), a [Rouge](https://github.com/rouge-ruby/rouge) compatible SCSS syntax highlighter for code blocks
 
 HTML/CSS compression (minification)
 

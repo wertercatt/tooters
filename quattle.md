@@ -22,9 +22,11 @@ HTML, SASS, XML, supporting assets and config files are included for the theme's
 
 Manifest.json to function as a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-CSS media feature `prefers-color-scheme` to detect if the visitor has requested a light or dark color scheme
+CSS media feature `prefers-color-scheme` to detect if the visitor’s device has requested a light or dark mode
 
-`$variables` based colors for light and dark mode, syntax highlighting for code blocks and styling of elements
+`$variables` based colors for accent, inline code and styling of elements
+
+[Starlight](https://github.com/victorwynne/starlight), a [Rouge](https://github.com/rouge-ruby/rouge) compatible SCSS syntax highlighter for code blocks
 
 HTML/CSS compression (minification)
 
@@ -42,7 +44,7 @@ Smart quotes across all content with the `{ | smartify }` liquid filter
 
 Rich preview links when shared via iMessage and social media services
 
-A wide variety of HTML elements commonly used in Markdown writing are styled (mark, source references, blockquotes, headers, tables, boxes/buttons, figure captions, code blocks, footnotes)
+A wide variety of HTML elements commonly used in Markdown writing are styled (mark, source references, blockquotes, headers, tables, boxes/buttons, figure captions, inline code, code blocks, tweets, footnotes)
 
 Additional supported and styled front matter:
 * Author attribution

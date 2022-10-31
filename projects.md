@@ -13,7 +13,7 @@ Released in 2015, Subjective is a conversational, interview-style ten episode se
 
 ## <small>Quattle</small>
 
-A modern, responsive and customizable theme for the static site generator Jekyll with support for dark mode. Typography and design aesthetics are given the full attention they deserve. It builds upon a standard Jekyll installation in a number of ways that are important to both writers and software developers.
+A modern, responsive and customizable theme for the static site generator Jekyll with support for dark mode. Typography and design aesthetics are given the full attention they deserve. It builds upon a standard Jekyll installation in a number of ways that are important and useful to writers, researchers and software developers.
 
 [Learn More](/quattle/)
 <br><br>

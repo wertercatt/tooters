@@ -17,7 +17,7 @@ title: Colophon
 	{% assign dateOb = dateOb | append: pd %}
 {% endfor %}
 
-This website and its writings are self-authored.
+This website is entirely self-authored
 
 ## <small>Publishing</small>
 

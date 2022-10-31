@@ -6,7 +6,7 @@ title: Projects
 
 ## <small>Subjective</small>
 
-Released in 2015, Subjective is a ten episode interview series with people impacting our world through their creativity.
+Subjective is a ten episode interview series with people impacting our world through their creativity.
 
 [Learn More](/subjective/)
 <br><br>

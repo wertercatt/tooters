@@ -20,7 +20,7 @@ Fully responsive with an emphasis on mobile friendly design, typography and inte
 
 HTML, SASS, XML, supporting assets and config files for integration with Jekyll
 
-[Starlight](https://github.com/victorwynne/starlight), a [Rouge](https://github.com/rouge-ruby/rouge) compatible SCSS syntax highlighter for code blocks
+[Starlight](https://github.com/victorwynne/starlight), a [Rouge](https://github.com/rouge-ruby/rouge) and [Pygments](https://github.com/pygments/pygments) compatible SCSS syntax highlighter for code blocks
 
 Manifest.json to function as a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 

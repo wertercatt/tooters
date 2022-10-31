@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Objective-C"
-date:   2022-10-31 10:53
+date:   2022-10-31 10:52
 categories: [Articles]
 tags: [development, swift]
 ---

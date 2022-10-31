@@ -30,7 +30,7 @@ CSS media feature `prefers-color-scheme` to detect if the visitor’s device has
 
 HTML/CSS compression (minification)
 
-Valid RSS 2.0 syndicated feed
+RSS 2.0 syndicated feed
 
 GDPR valid and compliant cookie consent banner
 

@@ -18,7 +18,7 @@ Quattle is a modern and customizable theme for the static site generator Jekyll.
 ## <small>Features</small>
 Fully responsive with an emphasis on mobile friendly design, typography and interaction
 
-HTML, SASS, XML, supporting assets and config files are included for the theme's design and integration with Jekyll
+HTML, SASS, XML, supporting assets and config files for integration with Jekyll
 
 [Starlight](https://github.com/victorwynne/starlight), a [Rouge](https://github.com/rouge-ruby/rouge) compatible SCSS syntax highlighter for code blocks
 

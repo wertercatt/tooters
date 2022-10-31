@@ -17,7 +17,7 @@ title: Colophon
 	{% assign dateOb = dateOb | append: pd %}
 {% endfor %}
 
-This website is authored, produced, designed and developed by Victor Wynne.
+This website and its writings are self-authored.
 
 ## <small>Publishing</small>
 

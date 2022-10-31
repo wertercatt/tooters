@@ -4,7 +4,7 @@ permalink: /quattle/
 title: Quattle
 ---
 
-Quattle is a modern, responsive and customizable theme for the static site generator Jekyll. It includes a number of features that are useful to writers and software developers.
+Quattle is a modern, responsive and customizable theme for the static site generator Jekyll. It includes a number of features that are useful to writers, researchers and software developers.
 
 ## <small>Latest Release</small>
 [v1.5.5 (bbd1e0f)](https://github.com/victorwynne/quattle/releases/tag/v1.5.5-RC)

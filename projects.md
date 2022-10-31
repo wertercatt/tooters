@@ -6,7 +6,7 @@ title: Projects
 
 ## <small>Subjective</small>
 
-Released in 2015, Subjective is a conversational, interview-style ten episode series that explores influencial writers, software developers, graphic artists and technologists who are partly responsible for shaping the online world.
+Released in 2015, Subjective is a ten episode interview series, exploring influential technologists impacting our world online through their creativity.
 
 [Learn More](/subjective/)
 <br><br>

@@ -4,7 +4,7 @@ permalink: /subjective/
 title: Subjective
 ---
 
-Released in 2015, Subjective is a conversational, interview-style series that explores influential writers, software developers and graphic artists who are making an impact on the creative arts.
+Released in 2015, Subjective is a ten episode interview series, exploring influential technologists impacting our world online through their creativity.
 
 Also available from [Apple Podcasts](https://podcasts.apple.com/us/podcast/subjective/id1589308059).
 

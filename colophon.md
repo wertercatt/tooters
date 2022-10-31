@@ -24,7 +24,6 @@ This website is authored, produced, designed and developed by Victor Wynne.
 All of the blog posts are written in [Markdown](https://daringfireball.net/projects/markdown/) and converted to static markup by the [Jekyll](https://jekyllrb.com) engine. Functionality for the site is constructed with Shopify's [Liquid](https://shopify.github.io/liquid/) template language and written in Ruby. The design is crafted using valid [HTML5](https://validator.w3.org/nu/?doc=https%3A%2F%2Fvictorwynne.com%2F) and [CSS3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvictorwynne.com&profile=css3svg&usermedium=all&warning=0&vextwarning=) and the feed is valid [RSS](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fvictorwynne.com%2Ffeed.xml). Domain registration and DNS is handled with [Hover](https://hover.com/) and hosting is provided by [Netlify](https://www.netlify.com) deploying from the [GitHub](https://www.github.com/victorwynne/victorwynne/) repo.
 
 ISSN: [2831-2880](https://portal.issn.org/resource/ISSN/2831-2880)<br>
-OCLC: [1302357422](https://www.worldcat.org/title/victor-wynne/)
 
 ## <small>Syndicated Feeds</small>
 

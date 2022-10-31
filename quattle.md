@@ -18,11 +18,13 @@ Quattle is a modern and customizable theme for the static site generator Jekyll.
 ## <small>Features</small>
 Fully responsive with an emphasis on mobile friendly design, typography and interaction
 
-HTML, SASS, XML, supporting assets and config files are included for the theme's design and functionality
+HTML, SASS, XML, supporting assets and config files are included for the theme's design and integration with Jekyll
 
-CSS media feature `prefers-color-scheme` to detect if the visitor has requested a light or dark color mode
+Manifest.json to function as a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-`$variables` based color schemes for light and dark mode, syntax highlighting for code blocks and styling of elements
+CSS media feature `prefers-color-scheme` to detect if the visitor has requested a light or dark color scheme
+
+`$variables` based colors for light and dark mode, syntax highlighting for code blocks and styling of elements
 
 HTML/CSS compression (minification)
 
@@ -45,7 +47,7 @@ A wide variety of HTML elements commonly used in Markdown writing are styled (ma
 Additional supported and styled front matter:
 * Author attribution
 * Last modified date
-* Permalinks for linked list style posts that have an external source reference
+* Linked list style posts that have an external source reference
 
 
 ## <small>License</small>

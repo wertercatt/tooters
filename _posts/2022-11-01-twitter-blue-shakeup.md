@@ -3,7 +3,7 @@ layout: post
 title: "Elon Musk will let you pay $8 to be a verified ‘lord’ on Twitter"
 date: 2022-11-01 23:30
 categories: [Links]
-tags: [elon musk, twitter]
+tags: [business, elon musk, twitter]
 link: https://www.theverge.com/2022/11/1/23435092/elon-musk-twitter-blue-verification-cost-ads-search
 ---
 

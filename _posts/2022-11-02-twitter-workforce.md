@@ -7,7 +7,7 @@ tags: [business, twitter]
 link: https://www.theverge.com/2022/11/2/23437926/elon-musk-twitter-layoffs-cuts-half-workforce
 ---
 
-[Jay Peters](https://twitter.com/jaypeters)
+[Jay Peters](https://twitter.com/jaypeters):
 
 >Twitter employees have been [bracing for layoffs](https://www.theverge.com/2022/10/31/23434002/twitter-layoffs-internal-messaging-uncertainty-elon-musk) since Elon Musk officially took over the company, and details are starting to trickle out about how many people could be affected. Wednesday evening, [The Verge’s Alex Heath reports](https://www.theverge.com/2022/11/2/23437835/elon-musk-is-meeting-with-advisors-to-review-twitters-layoff-plan) that Musk is meeting with advisors, including fellow former PayPal exec David Sacks, and finalizing a plan to lay off approximately 3,800 employees, while [Bloomberg reported](https://www.bloomberg.com/news/articles/2022-11-02/musk-plans-to-eliminate-half-of-twitter-jobs-in-cost-cut-drive?leadSource=uverify%20wall) that 3,700 would be cut.
 >

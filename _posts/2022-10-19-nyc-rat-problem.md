@@ -3,7 +3,7 @@ layout: post
 title: "New York City’s Answer to Its Rat Problem: Asking You to Take the Trash Out Later"
 date: 2022-10-19 23:45
 categories: [Links]
-tags: [nyc, life]
+tags: [humor, life]
 link: https://www.bloomberg.com/news/articles/2022-10-17/nyc-limits-taking-out-trash-to-nighttime-as-rat-complaints-soar?srnd=premium&leadSource=uverify%20wall&utm_source=substack&utm_medium=email
 ---
 

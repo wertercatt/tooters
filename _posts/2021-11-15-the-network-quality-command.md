@@ -3,7 +3,7 @@ layout: post
 title:  "The network quality command in Monterey"
 date:   2021-11-15 13:15:00
 categories: [Links]
-tags: [macOS, shell]
+tags: [macOS]
 link: https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html
 ---
 

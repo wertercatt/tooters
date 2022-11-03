@@ -4,7 +4,7 @@ permalink: /subjective/
 title: Subjective
 ---
 
-Subjective is a ten episode interview series with people impacting our world through their creativity.
+Subjective is a ten episode interview series with people impacting our world through their creativity. Released in Spring 2015.
 
 Also available from [Apple Podcasts](https://podcasts.apple.com/us/podcast/subjective/id1589308059).
 

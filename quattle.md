@@ -34,7 +34,7 @@ RSS 2.0 syndicated feed
 
 GDPR valid and compliant cookie consent banner
 
-404, site map, navigation, archive, category, tag, about, style and privacy pages
+404, index, site map, archive, category, tag, about, style and privacy pages
 
 Archive displays a tag cloud and number of posts per month, year, category, tag
 

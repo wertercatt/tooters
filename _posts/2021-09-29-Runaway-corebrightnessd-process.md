@@ -3,7 +3,7 @@ layout: post
 title:  "Runaway corebrightnessd process"
 date:   2021-09-29 18:00:00
 categories: [Articles]
-tags: [macOS, beta]
+tags: [macOS]
 ---
 
 <figure>

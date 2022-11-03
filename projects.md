@@ -20,7 +20,7 @@ A modern, responsive and customizable theme for the static site generator Jekyll
 
 ## <small>Olena</small>
 
-This is a distributed denial-of-service (DDoS) concept written entirely in JavaScript, and very simply browser based.
+This is a distributed denial-of-service (DDoS) concept written in JavaScript.
 
 [Learn More](/olena/)
 <br><br>

@@ -3,7 +3,7 @@ layout: post
 title: "Dieter Bohn bids farewell"
 date: 2022-03-05 12:15
 categories: [Links]
-tags: [journalism, technology]
+tags: [journalism]
 link: https://www.theverge.com/2022/3/4/22960011/farewell-from-dieter-bohn
 ---
 

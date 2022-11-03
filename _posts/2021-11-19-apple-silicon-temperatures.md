@@ -3,7 +3,7 @@ layout: post
 title:  "Apple silicon temperatures"
 date:   2021-11-17 13:25:00
 categories: [Articles]
-tags: [apple silicon]
+tags: [apple, macOS]
 ---
 
 ![temps](/assets/img/2021/11/temps.png)

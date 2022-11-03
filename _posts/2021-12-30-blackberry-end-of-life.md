@@ -3,7 +3,7 @@ layout: post
 title:  "Blackberry is finally end of life"
 date:   2021-12-30 14:30:00
 categories: [Links]
-tags: [business, history, technology]
+tags: [business, history]
 link: https://www.blackberry.com/us/en/support/devices/end-of-life
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Stephen Wilhite, creator of the GIF, has died"
 date:   2022-03-23 17:25
 categories: [Links]
-tags: [technology, history, coronavirus, life]
+tags: [history, coronavirus, life]
 link: https://www.theverge.com/2022/3/23/22992066/
 ---
 

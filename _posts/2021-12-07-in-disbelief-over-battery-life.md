@@ -3,7 +3,7 @@ layout: post
 title:  "In disbelief over battery life"
 date:   2021-12-07
 categories: [Articles]
-tags: [apple silicon, technology]
+tags: [apple, macOS]
 ---
 
 ![battery life](/assets/img/2021/12/batterylife.jpeg)

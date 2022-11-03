@@ -3,7 +3,7 @@ layout: post
 title:  "TikTok used by 16 per cent of British toddlers"
 date:   2022-03-31 08:35
 categories: [Links]
-tags: [technology, life, idiocy]
+tags: [life, idiocy]
 link: https://www.independent.co.uk/life-style/tiktok-toddlers-children-user-age-ofcom-b2047273.html
 ---
 

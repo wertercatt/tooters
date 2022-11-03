@@ -3,7 +3,7 @@ layout: post
 title: "Kara Swisher’s last Code Conference"
 date:   2022-10-12 23:10:00
 categories: [Links]
-tags: [kara swisher, tim cook, jony ive, laurene powell jobs, steve jobs, history]
+tags: [steve jobs, history]
 link: https://youtube.com/watch?v=sdvzYtgmIjs&feature=youtu.be
 ---
 

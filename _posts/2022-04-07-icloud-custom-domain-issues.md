@@ -3,7 +3,7 @@ layout: post
 title:  "iCloud+ custom email domains should be better"
 date:   2022-04-07 10:20
 categories: [Links]
-tags: [apple, iCloud]
+tags: [apple, iOS, macOS, iPadOS, watchOS]
 link: https://domlaut.com/icloud-custom-email-domains-should-be-better/
 ---
 

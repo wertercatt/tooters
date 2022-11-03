@@ -3,7 +3,7 @@ layout: post
 title:  "Creating link posts with Jekyll"
 date:   2020-01-03 02:30:00 -05:00
 categories: [Articles]
-tags: [development, design, jekyll, html, css, liquid]
+tags: [development, design, jekyll]
 ---
 
 One thing I wanted to do with this site is create *linked-list* style posts.

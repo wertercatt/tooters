@@ -3,7 +3,7 @@ layout: post
 title: "How to Grow a 2,560-Pound Pumpkin"
 date: 2022-10-31 09:05
 categories: [Links]
-tags: [life, nature]
+tags: [life, science]
 link: https://www.scientificamerican.com/article/how-to-grow-a-2-560-pound-pumpkin/
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "The music lives on"
 date:   2022-05-10 19:25
 categories: [Links]
-tags: [apple, history, iPod]
+tags: [apple, history, iPod, music]
 link: https://www.apple.com/newsroom/2022/05/the-music-lives-on/
 ---
 

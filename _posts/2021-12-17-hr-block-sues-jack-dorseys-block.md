@@ -3,7 +3,7 @@ layout: post
 title:  "H&R Block sues Jack Dorsey's Block"
 date:   2021-12-17 02:30
 categories: [Links]
-tags: [business, legal]
+tags: [business]
 link: https://www.fastcompany.com/90706886/hr-block-sues-jack-dorsey-square-rebrand
 ---
 

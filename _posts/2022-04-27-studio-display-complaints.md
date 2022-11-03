@@ -3,7 +3,7 @@ layout: post
 title: "Studio Display webcam complaints are fair, but the importance is being overblown"
 date:   2022-04-27 12:45
 categories: [Links]
-tags: [apple, hardware]
+tags: [apple]
 link: https://9to5mac.com/2022/04/27/studio-display-webcam-complaints-overblown/
 ---
 

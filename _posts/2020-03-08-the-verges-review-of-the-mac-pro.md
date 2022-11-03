@@ -3,7 +3,7 @@ layout: post
 title:  "The Verge's review of the Mac Pro"
 date:   2020-03-08 16:20:06
 categories: [Links]
-tags: [apple, reviews, hardware]
+tags: [apple]
 link: https://www.theverge.com/2020/3/2/21161358/mac-pro-review-apple-display-xdr-adobe-hardware-software-price-video
 ---
 

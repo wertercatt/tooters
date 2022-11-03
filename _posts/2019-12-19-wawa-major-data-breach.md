@@ -3,7 +3,7 @@ layout: post
 title:  "Really, Wawa?"
 date:   2019-12-19 14:30:00 -0500
 categories: [Links]
-tags: [culture, life, hacks]
+tags: [culture, life, news]
 link: https://www.theverge.com/2019/12/19/21030661/wawa-data-breach-gas-convenience-store-credit-debit-card-info-leak
 ---
 

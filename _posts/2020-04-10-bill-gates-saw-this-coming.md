@@ -3,7 +3,7 @@ layout: post
 title: "Bill Gates saw this coming"
 date: 2020-04-10 02:53:00
 categories: [Links]
-tags: [coronavirus, culture, life, bill gates]
+tags: [coronavirus, culture, life]
 link: https://www.businessinsider.com/bill-gates-op-ed-bio-terrorism-epidemic-world-threat-2017-2
 ---
 

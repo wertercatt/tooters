@@ -3,7 +3,7 @@ layout: post
 title:  "Jeff Bezos has a really flat butt"
 date:   2021-12-11
 categories: [Links]
-tags: [bezos, life, space]
+tags: [life, space]
 link: https://www.columbiatribune.com/story/news/education/campus/2021/12/09/who-wally-funk-oldest-woman-space-blue-origin-flight-jeff-bezos-stephens-college-missouri/8889839002/
 ---
 

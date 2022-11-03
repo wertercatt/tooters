@@ -3,7 +3,7 @@ layout: post
 title:  "Fantastical 3 has been released"
 date:   2020-02-04 12:30:45
 categories: [Links]
-tags: [iOS, macOS, iPadOS, design, apps]
+tags: [iOS, macOS, iPadOS, watchOS, design, apps]
 link: https://flexibits.com/blog/2020/01/say-hello-to-the-new-fantastical-for-mac-ipad-iphone-and-apple-watch/
 ---
 

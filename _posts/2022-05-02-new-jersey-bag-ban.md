@@ -3,7 +3,7 @@ layout: post
 title: "New Jersey's nation-leading bag ban set to take effect this week"
 date:   2022-05-02 12:30
 categories: [Links]
-tags: [environmental, life]
+tags: [life, science]
 link: https://gothamist.com/news/new-jerseys-nation-leading-bag-ban-set-to-take-effect-this-week
 ---
 

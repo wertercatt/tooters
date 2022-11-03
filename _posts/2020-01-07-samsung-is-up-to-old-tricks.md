@@ -3,7 +3,7 @@ layout: post
 title:  "Samsung is up to old tricks"
 date:   2020-01-07 17:00:00
 categories: [Links]
-tags: [samsung, business]
+tags: [business]
 link: https://www.imore.com/samsungs-it-again-and-time-it-stole-apples-face-id-icon
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Analogue Pocket review"
 date:   2021-12-17 02:31
 categories: [Links]
-tags: [technology, hardware, gaming]
+tags: [gaming]
 link: https://www.theverge.com/22831589/analogue-pocket-review
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Bourdain Confidential"
 date:   2019-12-27 12:10:00
 categories: [Links]
-tags: [interview, bio]
+tags: [life, history]
 link: https://popula.com/2018/07/15/bourdain-confidential/
 ---
 

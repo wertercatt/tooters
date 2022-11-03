@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "420 (cannabis culture)"
-date: 2020-04-20 04:20
+date: 2020-04-20 16:20:00
 categories: [Links]
 tags: [cannabis, culture, life]
 link: https://en.wikipedia.org/wiki/420_(cannabis_culture)

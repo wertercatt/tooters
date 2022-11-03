@@ -3,7 +3,7 @@ layout: post
 title: "Taylor Swift achieves her 11th No. 1 album"
 date: 2022-10-31 08:52
 categories: [Links]
-tags: [music, streaming]
+tags: [music]
 link: https://www.billboard.com/music/chart-beat/taylor-swift-midnights-debut-number-one-billboard-200-albums-chart-1235163377/
 ---
 

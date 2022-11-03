@@ -3,7 +3,7 @@ layout: post
 title:  "Stolen property is considered income"
 date:   2021-12-28 12:00
 categories: [Links]
-tags: [government, life]
+tags: [culture, humor]
 link: https://www.irs.gov/publications/p17
 ---
 

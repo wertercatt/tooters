@@ -3,7 +3,7 @@ layout: post
 title: "The case of the top secret iPod"
 date: 2021-04-15 15:20:00
 categories: [Links]
-tags: [apple, government, culture]
+tags: [apple, culture, humor]
 link: https://tidbits.com/2020/08/17/the-case-of-the-top-secret-ipod/
 ---
 

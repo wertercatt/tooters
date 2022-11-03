@@ -22,7 +22,7 @@ layout: default
   </time>
 
   {% if page.link %}
-  <span class="source" role="doc-endnotes">source •<a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a></span>
+  <span class="source" role="doc-endnotes">source • <a href="{{ page.link }}">{{ page.link | remove:'http://' | remove:'www.' | remove:'https://' | split:'/' | first }}</a></span>
   {% endif %}
 
   {{ content | smartify }}

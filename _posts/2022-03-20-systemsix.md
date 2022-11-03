@@ -3,7 +3,7 @@ layout: post
 title:  "SystemSix"
 date:   2022-03-20 09:30
 categories: [Links]
-tags: [macOS, history, design]
+tags: [macOS, history, design, whimsy]
 link: https://www.engineersneedart.com/systemsix/systemsix.html
 ---
 

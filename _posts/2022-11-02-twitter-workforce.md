@@ -3,7 +3,7 @@ layout: post
 title: "Elon Musk could cut half of Twitter’s workforce"
 date: 2022-11-02 22:30
 categories: [Links]
-tags: [business, twitter]
+tags: [business, elon musk, twitter]
 link: https://www.theverge.com/2022/11/2/23437926/elon-musk-twitter-layoffs-cuts-half-workforce
 ---
 

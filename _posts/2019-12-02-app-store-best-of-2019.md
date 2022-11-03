@@ -3,7 +3,7 @@ layout: post
 title:  "App Store best of 2019"
 date:   2019-12-02 04:53:51 -0500
 categories: [Links]
-tags: [apple, news, apps]
+tags: [apple, apps]
 link: https://www.apple.com/newsroom/2019/12/apple-celebrates-the-best-apps-and-games-of-2019/
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Facebook reverses Kyle Rittenhouse policy"
 date:   2021-12-01
 categories: [Links]
-tags: [life, facebook, news]
+tags: [life, facebook]
 link: https://www.bbc.com/news/technology-59486397
 ---
 

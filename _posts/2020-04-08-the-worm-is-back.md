@@ -3,7 +3,7 @@ layout: post
 title: "The worm is back"
 date: 2020-04-08 17:00:00
 categories: [Links]
-tags: [culture, news, design, science]
+tags: [culture, design, science]
 link: https://www.nasa.gov/feature/the-worm-is-back
 ---
 

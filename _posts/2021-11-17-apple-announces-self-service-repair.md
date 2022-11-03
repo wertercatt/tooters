@@ -3,7 +3,7 @@ layout: post
 title:  "Apple announces Self Service Repair"
 date:   2021-11-17 13:25:00
 categories: [Links]
-tags: [apple, news]
+tags: [apple]
 link: https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/
 ---
 

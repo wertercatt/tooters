@@ -3,7 +3,7 @@ layout: post
 title: "An oral history of the day everything changed"
 date: 2020-04-24 17:00:00
 categories: [Links]
-tags: [hollywood, life, news, coronavirus]
+tags: [coronavirus]
 link: https://www.wired.com/story/an-oral-history-of-the-day-everything-changed-coronavirus/
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Why telling people they don't need masks backfired"
 date: 2020-04-24 17:05:00
 categories: [Links]
-tags: [coronavirus, news, life]
+tags: [coronavirus, life]
 link: https://www.nytimes.com/2020/03/17/opinion/coronavirus-face-masks.html
 ---
 

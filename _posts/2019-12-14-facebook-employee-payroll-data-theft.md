@@ -3,7 +3,7 @@ layout: post
 title: "A thief took Facebook hard drives with payroll data"
 date: 2019-12-14 14:45:30 -0500
 categories: [Links]
-tags: [facebook, culture, life, news]
+tags: [facebook, culture]
 link: https://www.engadget.com/2019/12/13/facebook-employee-payroll-data-theft/
 ---
 

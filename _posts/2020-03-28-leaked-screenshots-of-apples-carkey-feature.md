@@ -3,7 +3,7 @@ layout: post
 title:  "Leaked screenshots of Apple's CarKey feature"
 date:   2020-03-28 04:00:00
 categories: [Links]
-tags: [apple, beta, news]
+tags: [apple, iOS]
 link: https://bgr.com/2020/03/27/ios-14-features-carkey-screenshots-bmw-i8/
 ---
 

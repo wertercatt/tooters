@@ -3,7 +3,7 @@ layout: post
 title:  "Facebook paid GOP firm to malign TikTok"
 date:   2022-04-01 13:05
 categories: [Links]
-tags: [facebook, meta]
+tags: [meta]
 link: https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/
 ---
 

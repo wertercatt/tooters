@@ -3,7 +3,7 @@ layout: post
 title: "Family sues after California man dies in taco eating contest"
 date: 2021-04-08 16:15:00
 categories: [Links]
-tags: [life, news, humor]
+tags: [life, humor]
 link: https://www.miamiherald.com/news/business/article250453911.html
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Could the numbers get better after states reopen?"
 date: 2020-05-06 03:00:00
 categories: [Links]
-tags: [coronavirus, news, politics]
+tags: [coronavirus, politics]
 link: https://www.cnn.com/2020/05/05/health/states-early-reopening-impact/index.html
 ---
 

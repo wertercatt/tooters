@@ -3,7 +3,7 @@ layout: post
 title:  "California's epic snowstorms"
 date:   2021-12-28 10:00
 categories: [Links]
-tags: [science, news]
+tags: [science]
 link: https://gizmodo.com/californias-epic-snowstorms-are-great-news-1848276159
 ---
 

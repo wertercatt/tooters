@@ -3,7 +3,7 @@ layout: post
 title:  "Microsoft announces change to its board of directors"
 date:   2020-03-17 12:40:55
 categories: [Links]
-tags: [microsoft, news]
+tags: [microsoft]
 link: https://news.microsoft.com/2020/03/13/microsoft-announces-change-to-its-board-of-directors/
 ---
 

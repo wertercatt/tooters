@@ -3,7 +3,7 @@ layout: post
 title:  "Apple TV+ scores its first award nomination with ‘The Morning Show’"
 date:   2019-12-08 13:45:25 -0500
 categories: [Links]
-tags: [apple, culture, hollywood, news, streaming]
+tags: [apple, culture, streaming]
 link: https://www.engadget.com/2019/12/08/apple-tv-scores-its-first-award-nomination-with-the-morning-sh/
 ---
 

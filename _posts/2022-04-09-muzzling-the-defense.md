@@ -3,7 +3,7 @@ layout: post
 title:  "Muzzling the defense"
 date:   2022-04-09 03:25
 categories: [Links]
-tags: [politics, news]
+tags: [politics]
 link: https://www.buzzfeednews.com/article/kenbensinger/a-stunning-surprise-in-the-michigan-kidnapping-case-calls
 ---
 

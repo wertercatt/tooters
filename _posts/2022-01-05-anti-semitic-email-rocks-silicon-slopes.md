@@ -3,7 +3,7 @@ layout: post
 title:  "Anti-Semitic email rocks the silicon slopes"
 date:   2022-01-05
 categories: [Links]
-tags: [silicon slopes, idiocy]
+tags: [idiocy]
 link: https://gizmodo.com/utah-tech-founder-resigns-after-sending-email-claiming-1848308828
 ---
 

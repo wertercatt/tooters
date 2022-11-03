@@ -3,7 +3,7 @@ layout: post
 title: "The New York Times just purchased Wordle"
 date: 2022-01-31 16:50
 categories: [Links]
-tags: [business, media]
+tags: [business]
 link: https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html
 ---
 

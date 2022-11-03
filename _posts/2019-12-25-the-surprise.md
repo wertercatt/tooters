@@ -3,7 +3,7 @@ layout: post
 title:  "‘The Surprise’"
 date:   2019-12-25 12:25:00 -0500
 categories: [Links]
-tags: [apple, marketing, video]
+tags: [apple, marketing]
 link: https://smugglersite.com/us/directors/mark-molloy/apple-the-surprise/
 ---
 

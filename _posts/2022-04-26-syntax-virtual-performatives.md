@@ -3,7 +3,7 @@ layout: post
 title: "The syntax of virtual performatives"
 date:   2022-04-26 20:05
 categories: [Links]
-tags: [language, life, technology]
+tags: [culture, life]
 link: https://ling.auf.net/lingbuzz/006581
 ---
 

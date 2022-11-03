@@ -3,7 +3,7 @@ layout: post
 title: "The new Pixel 7’s ‘Guided Frame’ feature"
 date:   2022-10-12 21:30:00
 categories: [Links]
-tags: [google, accessibility, pixel phone]
+tags: [google, accessibility]
 link: https://www.forbes.com/sites/stevenaquino/2022/10/12/with-the-new-pixel-7s-guided-frame-feature-google-wants-to-make-taking-selfies-more-accessible-and-equitable-than-ever/?sh=67ff576e2c0c
 ---
 

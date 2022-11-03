@@ -3,7 +3,7 @@ layout: post
 title:  "The design philosophy of Steve Jobs"
 date:   2020-02-07 12:30:45
 categories: [Links]
-tags: [apple, design, philosophy, steve jobs]
+tags: [apple, design, steve jobs]
 link: https://popula.com/2019/09/10/less-human-than-human-the-design-philosophy-of-steve-jobs/
 ---
 

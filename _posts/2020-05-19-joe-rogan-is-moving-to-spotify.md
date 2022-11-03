@@ -3,7 +3,7 @@ layout: post
 title: "Joe Rogan is moving to Spotify"
 date: 2020-05-19 20:00:00
 categories: [Links]
-tags: [business, podcasting, spotify]
+tags: [business, spotify]
 link: https://www.instagram.com/p/CAYSqQLFP_l/?igshid=145vpohh7ddan
 ---
 

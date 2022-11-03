@@ -3,7 +3,7 @@ layout: post
 title:  "Episode 470 of Back to Work"
 date:   2020-03-25 04:00:00
 categories: [Links]
-tags: [culture, podcasting, life]
+tags: [podcasts]
 link: http://5by5.tv/b2w/470
 ---
 

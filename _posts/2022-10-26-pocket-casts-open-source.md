@@ -3,7 +3,7 @@ layout: post
 title: "Podcast app Pocket Casts goes open source"
 date: 2022-10-26 14:05
 categories: [Links]
-tags: [business, podcasting, development]
+tags: [business, development]
 link: https://techcrunch.com/2022/10/21/podcast-app-pocket-casts-goes-open-source/
 ---
 

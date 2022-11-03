@@ -3,7 +3,7 @@ layout: post
 title: "Downstream #9: Little Crown Jewel"
 date: 2022-01-26 13:00
 categories: [Links]
-tags: [podcasting]
+tags: [podcasts]
 link: https://www.relay.fm/downstream/9
 ---
 

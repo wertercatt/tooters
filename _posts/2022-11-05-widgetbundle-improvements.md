@@ -10,8 +10,8 @@ link: https://twitter.com/luka_bernardi/status/1572000451775844352?s=46&t=VM6Ndg
 Luca Bernardi, who is part of the SwiftUI team at Apple:
 
 >Starting in iOS 16.1 (beta 2), WidgetBundle supports having if statement with `#available` clause (and only this specific clause) in its body.
-
-That’s pretty useful to add more widget configurations that are supported only in later OSes like ActivityConfiguration.
+>
+>That’s pretty useful to add more widget configurations that are supported only in later OSes like ActivityConfiguration.
 
 This is the sample code he shared:
 

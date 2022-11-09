@@ -1,4 +1,6 @@
-This website is authored, produced, designed and developed by Victor Wynne.
+### Social
+
+Mastodon: <a rel="me" href="https://ruby.social/@victorwynne">@victorwynne@ruby.social</a>
 
 ### Publishing
 

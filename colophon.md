@@ -85,7 +85,6 @@ Build: {{ site.time | date: '%R %Z' }} on {{ site.time | date_to_long_string: "o
 
 ## <small>Contact</small>
 
-Mastodon: [@victorwynne@ruby.social](https://ruby.social/@victorwynne)<br>
 Email: <a href="mailto:hello@victorwynne.com">hello@victorwynne.com</a><br>
 PGP: [public key](https://victorwynne.com/key.txt)
 

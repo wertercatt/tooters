@@ -52,6 +52,7 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [iStat Menus](https://bjango.com/mac/istatmenus)<br>
 [Kaleidoscope](https://kaleidoscope.app)<br>
 [Keyboard Maestro](https://www.keyboardmaestro.com/main/)<br>
+[Metatext](https://metabolist.org)<br>
 [Nova](https://nova.app)<br>
 [Oh My Zsh](https://ohmyz.sh)<br>
 [OpenEmu](https://openemu.org)<br>
@@ -71,7 +72,6 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Things](https://culturedcode.com/things/)<br>
 [Tower](https://www.git-tower.com/mac)<br>
 [Transmit](https://panic.com/transmit)<br>
-[Tweetbot](https://tapbots.com/tweetbot/mac)<br>
 [Typora](https://typora.io)<br>
 [WaterMinder](https://waterminder.com)<br>
 [Working Copy](https://workingcopyapp.com)<br>

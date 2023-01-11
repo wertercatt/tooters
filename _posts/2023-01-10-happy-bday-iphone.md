@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Happy 16th birthday iPhone”
+title: “Happy Birthday iPhone”
 date: 2023-01-10 23:50
 categories: [Links]
 tags: [apple, history, iPhone]

@@ -1,11 +1,11 @@
-——-
+---
 layout: post
-title:  "Happy birthday iPhone"
+title:  “Happy 16th birthday iPhone”
 date:   2023-01-10 23:50
 categories: [Links]
 tags: [apple, history, iPhone]
 link: https://people.com/human-interest/today-marks-16-years-since-steve-jobs-unveiled-first-iphone/
-——-
+---
 
 Jason Hahn:
 

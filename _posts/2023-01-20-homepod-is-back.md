@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The HomePod is back"
+title:  "HomePod is back"
 date:   2023-01-20 11:15
 categories: [Links]
 tags: [apple]

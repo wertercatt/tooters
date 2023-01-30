@@ -13,7 +13,7 @@ David Shayer:
 >
 >The next day, the receptionist called to tell me that two men were waiting in the lobby. I went downstairs to meet Paul and Matthew, the engineers who would actually build this custom iPod. I’d love to say they wore dark glasses and trench coats and were glancing in window reflections to make sure they hadn’t been tailed, but they were perfectly normal thirty-something engineers. I signed them in, and we went to a conference room to talk."
 
-It terms of how Apple operates, all of the secrecy does seems like business as usual. It gets better...
+It terms of how Apple operates all of the secrecy does seems like business as usual. It gets better...
 
 >"They didn’t actually work for the Department of Energy; they worked for a division of Bechtel, a large US defense contractor to the Department of Energy. They wanted to add some custom hardware to an iPod and record data from this custom hardware to the iPod’s disk in a way that couldn’t be easily detected. But it still had to look and work like a normal iPod.
 >

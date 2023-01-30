@@ -50,9 +50,9 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 [Homebrew](https://brew.sh)<br>
 [IINA](https://iina.io)<br>
 [iStat Menus](https://bjango.com/mac/istatmenus)<br>
+[Ivory](https://tapbots.com/ivory/)<br>
 [Kaleidoscope](https://kaleidoscope.app)<br>
 [Keyboard Maestro](https://www.keyboardmaestro.com/main/)<br>
-[Metatext](https://metabolist.org)<br>
 [Nova](https://nova.app)<br>
 [Oh My Zsh](https://ohmyz.sh)<br>
 [OpenEmu](https://openemu.org)<br>

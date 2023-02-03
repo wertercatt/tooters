@@ -1,6 +1,6 @@
 ### Social
 
-Mastodon: <a rel="me" href="https://tooters.org/@vw">@vw@tooters.org</a>
+Mastodon: <a href="https://tooters.org/@vw">@vw@tooters.org</a>
 
 ### Publishing
 

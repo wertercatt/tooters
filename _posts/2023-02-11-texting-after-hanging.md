@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Texting after hanging"
-date:   2023-02-11 01:30
+date:   2023-02-11 17:23
 categories: [Links]
 tags: [humor, life]
 link: https://www.thecut.com/article/tipping-rules-etiquette-rules.html

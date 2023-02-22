@@ -8,5 +8,5 @@ title: Tooters
 
 The Tooters.org instance is currently operating normally.
 
-Email: <a href=“mailto:victor@tooters.org”>victor@tooters.org</a><br>
-Mastodon: [@victor@tooters.org](https://tooters.org/users/victor)
+Email: victor@tooters.org<br>
+Mastodon: [victor@tooters.org](https://tooters.org/users/victor)

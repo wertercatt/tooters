@@ -6,8 +6,8 @@ title: Tooters
 
 ## <small>Server Status</small>
 
-API: ✅
-Website: ✅
+API: ✅ <br>
+Website: ✅ <br>
 Mail Delivery: ✅
 
 Email: victor@tooters.org<br>

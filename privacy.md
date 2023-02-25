@@ -10,76 +10,36 @@ API: ✅ <br>
 Website: ✅ <br>
 Mail Delivery: ✅
 
-[BRIEF DESCRIPTION OF THE SLACK AND ITS PURPOSE]
+# Privacy Policy
+### Last updated Oct 06, 2022
+This privacy policy describes how tooters.org (“tooters.org”, “we”, “us”) collects, protects and uses the personally identifiable information you may provide through the tooters.org website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that tooters.org does not own or control, or to individuals that tooters.org does not employ or manage.
+# What information do we collect?
+**Basic account information**: If you register on this server, you may be asked to enter a username, an e-mail address and a password. You may also enter additional profile information such as a display name and biography, and upload a profile picture and header image. The username, display name, biography, profile picture and header image are always listed publicly.
+**Posts, following and other public information**: The list of people you follow is listed publicly, the same is true for your followers. When you submit a message, the date and time is stored as well as the application you submitted the message from. Messages may contain media attachments, such as pictures and videos. Public and unlisted posts are available publicly. When you feature a post on your profile, that is also publicly available information. Your posts are delivered to your followers, in some cases it means they are delivered to different servers and copies are stored there. When you delete posts, this is likewise delivered to your followers. The action of reblogging or favouriting another post is always public.
+**Direct and followers-only posts**: All posts are stored and processed on the server. Followers-only posts are delivered to your followers and users who are mentioned in them, and direct posts are delivered only to users mentioned in them. In some cases it means they are delivered to different servers and copies are stored there. We make a good faith effort to limit the access to those posts only to authorized persons, but other servers may fail to do so. Therefore it’s important to review servers your followers belong to. You may toggle an option to approve and reject new followers manually in the settings. **Please keep in mind that the operators of the server and any receiving server may view such messages**, and that recipients may screenshot, copy or otherwise re-share them. **Do not share any sensitive information over Mastodon.**
+**IPs and other metadata**: When you log in, we record the IP address you log in from, as well as the name of your browser application. All the logged in sessions are available for your review and revocation in the settings. The latest IP address used is stored for up to 12 months. We also may retain server logs which include the IP address of every request to our server.
+# What do we use your information for?
+Any of the information we collect from you may be used in the following ways:
+		To provide the core functionality of Mastodon. You can only interact with other people’s content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.
+		To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.
+		The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.
+# How do we protect your information?
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. Among other things, your browser session, as well as the traffic between your applications and the API, are secured with SSL, and your password is hashed using a strong one-way algorithm. You may enable two-factor authentication to further secure access to your account.
+# What is our data retention policy?
+We will make a good faith effort to:
+		Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.
+		Retain the IP addresses associated with registered users no more than 12 months.
+You can request and download an archive of your content, including your posts, media attachments, profile picture, and header image.
+You may irreversibly delete your account at any time.
+# Do we use cookies?
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow). These cookies enable the site to recognize your browser and, if you have a registered account, associate it with your registered account.
+We use cookies to understand and save your preferences for future visits.
+# Do we disclose any information to outside parties?
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+Your public content may be downloaded by other servers in the network. Your public and followers-only posts are delivered to the servers where your followers reside, and direct messages are delivered to the servers of the recipients, in so far as those followers or recipients reside on a different server than this.
+When you authorize an application to use your account, depending on the scope of permissions you approve, it may access your public profile information, your following list, your followers, your lists, all your posts, and your favourites. Applications can never access your e-mail address or password.
+# Site usage by children
+If this server is in the EU or the EEA: Our site, products and services are all directed to people who are at least 16 years old. If you are under the age of 16, per the requirements of the GDPR (General Data Protection Regulation) do not use this site.
+If this server is in the USA: Our site, products and services are all directed to people who are at least 13 years old. If you are under the age of 13, per the requirements of COPPA (Children’s Online Privacy Protection Act) do not use this site.
+Law requirements can be different if this server is in another jurisdiction.
 
-The current admins are:
-
-[NAMES]
-[HERE]
-We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Discretion:
-
-[Use this section if you’re running an invite-only slack that you don’t want non-members to know about.]
-
-Please don’t talk about [SLACKNAME] in public. This is a private, invitation-only slack. Please don’t discuss it in public, or with people who aren’t members. It can cause awkwardness and hurt feelings if people start asking what it is and how to get invited. Further, harassers and abusers may be surveilling some members of this slack. Keeping the existence of this slack private makes it more difficult for bad actors to triangulate their targets’ social footprints.
-
-If you wish to nominate someone for membership, please contact the admins (before you speak to the person you wish to invite).
-
-Confidentiality:
-
-[Use this section if you expect your members to respect the confidentiality of this space. Please be mindful that because slacks are closed networks, they can foster a false sense of security that leads people to share things that really should not be public. If you have members who you suspect might leak conversations and files hosted on your slack, either kick them out or use the ‘Logs and Records’ section below instead of this one.]
-
-Please keep what’s said in [SLACKNAME] confidential. Don’t repeat or quote things said here without the affirmative consent of the speaker(s). When quoting (with consent), please be careful not to reveal the existence of [SLACKNAME]. Rather, you can refer to the quote as something that was said “in chat” or while you were talking to the quoted member.
-
-Please be mindful that things you say here may at some point become public. While we expect members to honor the confidentiality of this space, we cannot guarantee that they will do so—nor can we guarantee that every member’s login credentials and logged-in devices are secure. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
-
-Logs and Records:
-
-[Use this section in place of ‘confidentiality’ (above) if you want to signal more strongly to members that they shouldn’t trust the privacy of your slack. Admins should be on the lookout for conversations that require a greater level of security than you can provide, and warn members that their discussion should be moved to a more secure platform.]
-
-Please be mindful that things you say here may at some point become public. We cannot prevent people from screencapping or otherwise logging this slack. We also can’t guarantee that every member’s login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
-
-Message Retention:
-
-[FOR FREE SLACKS]: Because this is a free slack account, we have restricted scrollback, but Slack—the company—retains complete logs of all channels and direct messages back to the creation of [SLACKNAME]. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
-
-[FOR PAID SLACKS WITH MESSAGE RETENTION POLICIES]:
-
-[SLACKNAME] uses Slack’s message retention features to delete old messages and uploaded files. Our retention policies are as follows:
-
-[Detail your retention policies here]
-
-Harassment:
-
-Harassment includes:
-
-Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
-Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
-Deliberate misgendering or use of ‘dead’ or rejected names
-Gratuitous or off-topic sexual images or behavior in spaces where they’re not appropriate
-Simulated physical contact (e.g. textual descriptions like “hug” or “backrub”) without consent or after a request to stop.
-Threats of violence
-Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
-Deliberate intimidation
-Sustained disruption of discussion
-Unwelcome sexual attention
-Continued one-on-one communication after requests to cease
-Publication of non-harassing private communication
-Reporting
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They’ll respond as promptly as they can.
-
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
-
-Consequences
-
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion from this slack and identifying the participant publicly as someone about whom we’ve received complaints.
-
-Credits and License
-
-[This work is available to you to use, publish, and modify under the terms of the Creative Commons Attribution License. Please keep the paragraph below attached to your final version.]
-
-This code of conduct is based on Annalee Flower Horne’s Sample Slack Code of Conduct, which is in turn based on Geek Feminism’s Community Anti-Harassment Policy. We have adapted the Sample Slack Code of Conduct for our own use under the terms of the Creative Commons Attribution License.

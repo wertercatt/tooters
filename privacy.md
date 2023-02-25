@@ -8,6 +8,7 @@ title: Privacy
 #### Last updated February 24th, 2023
 
 This privacy policy describes how tooters.org (“tooters.org”, “we”, “us”) collects, protects and uses the personally identifiable information you may provide through the tooters.org website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that tooters.org does not own or control, or to individuals that tooters.org does not employ or manage.
+
 ### What information do we collect?
 
 - **Basic account information**: If you register on this server, you may be asked to enter a username, an e-mail address and a password. You may also enter additional profile information such as a display name and biography, and upload a profile picture and header image. The username, display name, biography, profile picture and header image are always listed publicly.
@@ -19,7 +20,7 @@ This privacy policy describes how tooters.org (“tooters.org”, “we”, “u
 - **Please keep in mind that the operators of the server and any receiving server may view such messages**, and that recipients may screenshot, copy or otherwise re-share them. **Do not share any sensitive information over Mastodon.**
  
 - **IPs and other metadata**: When you log in, we record the IP address you log in from, as well as the name of your browser application. All the logged in sessions are available for your review and revocation in the settings. The latest IP address used is stored for up to 12 months. We also may retain server logs which include the IP address of every request to our server.
-- 
+
 ### What do we use your information for?
 
 Any of the information we collect from you may be used in the following ways:

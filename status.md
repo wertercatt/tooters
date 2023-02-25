@@ -15,8 +15,7 @@ Mail Delivery: ✅
 Email: hello@tooters.org<br>
 Mastodon: [tooters@tooters.org](https://tooters.org/@tooters)
 
-| Service        | Status |
-| -———— |——:|
+| **Service**        | **Status** |
 | API      | ✅ |
 | Website      | ✅ |
 | Backups      | ✅ |

@@ -4,7 +4,7 @@ permalink: /privacy/
 title: Privacy
 ---
 
-## Privacy Policy
+## <small>Privacy Policy</small>
 #### Last updated February 24th, 2023
 
 This privacy policy describes how tooters.org (“tooters.org”, “we”, “us”) collects, protects and uses the personally identifiable information you may provide through the tooters.org website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that tooters.org does not own or control, or to individuals that tooters.org does not employ or manage.

@@ -1,6 +1,6 @@
 {
-  "name": "Victor Wynne",
-  "short_name": "Victor Wynne",
+  "name": "Tooters",
+  "short_name": "Tooters",
   "display": "standalone",
   "scope": "/",
   "start_url": "/"

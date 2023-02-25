@@ -4,7 +4,7 @@ permalink: /status/
 title: Status
 ---
 
-## <small>Mastodon Instance</small>
+## <small>Mastodon v4.1.0 Instance</small>
 
 
 

@@ -15,5 +15,4 @@ title: Status
 | Database      | ✅ |
 | Email Delivery      | ✅ 
 
-Email: hello@tooters.org<br>
-Mastodon: [tooters@tooters.org](https://tooters.org/@tooters)
+Status updates are published on [tooters@tooters.org](https://tooters.org/@tooters) and [RSS](https://tooters.org/users/tooters.rss).

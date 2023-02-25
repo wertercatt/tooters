@@ -4,16 +4,9 @@ permalink: /status/
 title: Status
 ---
 
-## <small>Server Status</small>
+## <small>Mastodon Instance</small>
 
-API: ✅ <br>
-Website: ✅ <br>
-Backups: ✅ <br>
-Database: ✅ <br>
-Mail Delivery: ✅
 
-Email: hello@tooters.org<br>
-Mastodon: [tooters@tooters.org](https://tooters.org/@tooters)
 
 | **Service**        | **Status** |
 | API      | ✅ |
@@ -21,3 +14,6 @@ Mastodon: [tooters@tooters.org](https://tooters.org/@tooters)
 | Backups      | ✅ |
 | Database      | ✅ |
 | Email Delivery      | ✅ 
+
+Email: hello@tooters.org<br>
+Mastodon: [tooters@tooters.org](https://tooters.org/@tooters)

@@ -15,4 +15,4 @@ title: Status
 | Database      | ✅ |
 | Email Delivery      | ✅ 
 
-<center>Status updates are published on [tooters@tooters.org](https://tooters.org/@tooters) and [RSS](https://tooters.org/users/tooters.rss)</center>
+<center>Status updates are published on <a href=“https://tooters.org/@tooters“>@tooters</a> and <a href=“https://tooters.org/@tooters.rss“>RSS</a></center>

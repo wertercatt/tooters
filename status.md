@@ -10,6 +10,7 @@ title: Status
 
 | **Service**        | **Status** |
 | API      | ✅ |
+| SSL      | ✅ |
 | Website      | ✅ |
 | Backups      | ✅ |
 | Database      | ✅ |

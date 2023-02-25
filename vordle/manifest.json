@@ -1,8 +1,0 @@
-{
-  "short_name": "Vordle",
-  "name": "Vordle",
-  "display": "standalone",
-  "start_url": "https://victorwynne.com/vordle",
-  "background_color": "#121213",
-  "theme_color": "#121213"
-}

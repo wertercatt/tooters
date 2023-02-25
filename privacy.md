@@ -7,17 +7,17 @@ title: Privacy
 ## <small>Privacy Policy</small>
 #### Last updated February 24th, 2023
 
-This privacy policy describes how tooters.org (“tooters.org”, “we”, “us”) collects, protects and uses the personally identifiable information you may provide through the tooters.org website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that tooters.org does not own or control, or to individuals that tooters.org does not employ or manage.
+This privacy policy describes how tooters.org (“tooters.org”, “Tooters”, “we”, “us”) collects, protects and uses the personally identifiable information you may provide through the tooters.org website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that tooters.org does not own or control, or to individuals that tooters.org does not employ or manage.
 
 ### What information do we collect?
 
 - **Basic account information**: If you register on this server, you may be asked to enter a username, an e-mail address and a password. You may also enter additional profile information such as a display name and biography, and upload a profile picture and header image. The username, display name, biography, profile picture and header image are always listed publicly.
  
-- **Posts, following and other public information**: The list of people you follow is listed publicly, the same is true for your followers. When you submit a message, the date and time is stored as well as the application you submitted the message from. Messages may contain media attachments, such as pictures and videos. Public and unlisted posts are available publicly. When you feature a post on your profile, that is also publicly available information. Your posts are delivered to your followers, in some cases it means they are delivered to different servers and copies are stored there. When you delete posts, this is likewise delivered to your followers. The action of reblogging or favouriting another post is always public.
+- **Posts, following and other public information**: Unless explicitly opted out of in your profile settings, the list of people you follow is listed publicly, and the same is true for your followers. When you submit a message, the date and time is stored as well as the application you submitted the message from. Messages may contain media attachments, such as pictures and videos. Public and unlisted posts are available publicly. When you feature a post on your profile, that is also publicly available information. Your posts are delivered to your followers, in some cases it means they are delivered to different servers and copies are stored there. When you delete posts, this is likewise delivered to your followers. The action of reblogging or favouriting another post is always public.
 
 - **Direct and followers-only posts**: All posts are stored and processed on the server. Followers-only posts are delivered to your followers and users who are mentioned in them, and direct posts are delivered only to users mentioned in them. In some cases it means they are delivered to different servers and copies are stored there. We make a good faith effort to limit the access to those posts only to authorized persons, but other servers may fail to do so. Therefore it’s important to review servers your followers belong to. You may toggle an option to approve and reject new followers manually in the settings.
  
-- **Please keep in mind that the operators of the server and any receiving server may view such messages**, and that recipients may screenshot, copy or otherwise re-share them. **Do not share any sensitive information over Mastodon.**
+- **Please keep in mind that the operators of the server and any receiving server may view such messages**, and that recipients may screenshot, copy or otherwise re-share them. **Do not share any sensitive information over tooters.org.**
  
 - **IPs and other metadata**: When you log in, we record the IP address you log in from, as well as the name of your browser application. All the logged in sessions are available for your review and revocation in the settings. The latest IP address used is stored for up to 12 months. We also may retain server logs which include the IP address of every request to our server.
 
@@ -25,7 +25,7 @@ This privacy policy describes how tooters.org (“tooters.org”, “we”, “u
 
 Any of the information we collect from you may be used in the following ways:
 
-- To provide the core functionality of Mastodon. You can only interact with other people’s content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.
+- To provide the core functionality of Mastodon delivered by tooters.org. You can only interact with other people’s content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.
 - To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.
 - The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.
  
@@ -37,16 +37,21 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We will make a good faith effort to:
 - Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.
-- Retain the IP addresses associated with registered users no more than 12 months.
+- Retain the IP addresses associated with registered users no more than 12 months. 
  
 You can request and download an archive of your content, including your posts, media attachments, profile picture, and header image.
 
-You may irreversibly delete your account at any time.
+You may set your own content retention policies within your profile settings.
+
+You may irreversibly delete your account at any time. Once an account has been deleted **the @ username is not recoverable**, nor can it be registered by anyone else.
 
 ### Do we use cookies?
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow). These cookies enable the site to recognize your browser and, if you have a registered account, associate it with your registered account.
+
 We use cookies to understand and save your preferences for future visits.
+
+Cookies are never used for marketing, advertising, tracking, or device fingerprinting purposes.
 
 ### Do we disclose any information to outside parties?
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /vault/
-title: Vault
+permalink: /newsroom/
+title: Newsroom
 ---
 
-<h5>View posts by <a href="/vault/">date</a>, <a href="/categories/">category</a> or <a href="/tags/">tag</a>.</h5>
+<h5>View posts by <a href="/newsroom/">date</a>, <a href="/categories/">category</a> or <a href="/tags/">tag</a>.</h5>
 
 <div class="post">
 

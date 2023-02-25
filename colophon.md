@@ -4,14 +4,15 @@ permalink: /status/
 title: Status
 ---
 
-## <small>Publishing</small>
+## <small>Server Status</small>
 
-All of the blog posts are written in [Markdown](https://daringfireball.net/projects/markdown/) 
+API: ✅ <br>
+Website: ✅ <br>
+Mail Delivery: ✅
 
-## <small>Contact</small>
+Email: victor@tooters.org<br>
+Mastodon: [victor@tooters.org](https://tooters.org/users/victor)
 
-Email: hello@victorwynne.com<br>
-PGP: [public key](https://victorwynne.com/key.txt)
 
 ## <small>Privacy</small>
 

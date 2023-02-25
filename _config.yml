@@ -1,6 +1,6 @@
-title: Victor Wynne
+title: Tooters
 tagline:
-url: https://victorwynne.com
+url: https://home.tooters.org
 baseurl: ""
 permalink: :title/
 
@@ -28,14 +28,14 @@ sass:
 
 author:
   name: Victor Wynne
-  url: https://victorwynne.com
-  email: hello@victorwynne.com
+  url: https://tooters.org 
+  email: victor@tooters.org
 
 version: 1.4.0
 github:
   repo: https://github.com/victorwynne/quattle/
 
 # Feed
-name: Victor Wynne
-description: a self-authored blog
-url: https://victorwynne.com
+name: Tooters
+description: Tooters.org
+url: https://home.tooters.org

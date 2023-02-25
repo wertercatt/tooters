@@ -7,8 +7,8 @@ title: Status
 ## <small>Server Status</small>
 
 API: ✅ <br>
-Backups: ✅ <br>
 Website: ✅ <br>
+Backups: ✅ <br>
 Database: ✅ <br>
 Mail Delivery: ✅
 

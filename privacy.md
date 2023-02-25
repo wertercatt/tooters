@@ -6,6 +6,7 @@ title: Privacy
 
 ## Privacy Policy
 #### Last updated February 24th, 2023
+
 This privacy policy describes how tooters.org (“tooters.org”, “we”, “us”) collects, protects and uses the personally identifiable information you may provide through the tooters.org website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that tooters.org does not own or control, or to individuals that tooters.org does not employ or manage.
 ## What information do we collect?
 
@@ -26,7 +27,7 @@ Any of the information we collect from you may be used in the following ways:
 - To provide the core functionality of Mastodon. You can only interact with other people’s content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.
 - To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.
 - The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.
-- 
+ 
 ## How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. Among other things, your browser session, as well as the traffic between your applications and the API, are secured with SSL, and your password is hashed using a strong one-way algorithm. You may enable two-factor authentication to further secure access to your account.

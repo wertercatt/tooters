@@ -1,6 +1,6 @@
 ### Social
 
-Mastodon: <a href="https://tooters.org/@victor">@victor@tooters.org</a>
+Fediverse: <a href="https://tooters.org/@victor">@victor@tooters.org</a>
 
 ### Publishing
 

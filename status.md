@@ -18,4 +18,4 @@ title: Status
 
 <center> Online: ✅ Delays: 🌩️ Offline: 🚨 </center>
 
-<center>Status updates available <a href=“https://tooters.org/@tooters/“>@tooters</a> and <a href=“https://tooters.org/@tooters.rss“>RSS</a></center>
+<center> Status updates available <a href=“https://tooters.org/users/tooters“>@tooters</a> and <a href=“https://tooters.org/users/tooters.rss“>RSS</a> </center>

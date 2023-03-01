@@ -64,3 +64,4 @@ When you authorize an application to use your account, depending on the scope of
 ### Site usage by children
 
 Our site, products and services are all directed to people who are at least 13 years old. If you are under the age of 13, per the requirements of COPPA (Children’s Online Privacy Protection Act) do not use this site.
+<br>

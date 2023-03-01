@@ -1,0 +1,37 @@
+VERSION="2.4.1"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://stellarid.io/federation/"
+
+ACCOUNTS=["ZZZJ4223KUWIMV7RAPQKBA7YGR4I7H2BIV4KIMMXMQWYQBOZ6HLZRZZZ","ZZZFWGFXDRTPCMJKSEQKNBQ6KR7MJRRHBCF5BBOG47ZI2SGOQWJQIZZZ"]
+
+[DOCUMENTATION]
+ORG_NAME="The Navajo Fund"
+ORG_URL="https://www.navajofund.org"
+ORG_LOGO="https://www.navajofund.org/.well-known/logo.png"
+ORG_DESCRIPTION="The Navajo Fund is the community management team for Diné Bi Béeso, the sovereign currency system of the future for the people of the Navajo Nation."
+ORG_PHYSICAL_ADDRESS="Mile Post 529 U.S. Highway 89, Navajo Nation, Arizona, United States"
+ORG_OFFICIAL_EMAIL="hello@navajofund.org"
+ORG_PHONE_NUMBER="+19286122363"
+ORG_KEYBASE="navajofund"
+ORG_TWITTER="navajofund"
+ORG_GITHUB="navajofund"
+
+[[PRINCIPALS]]
+name="Hailei Joe"
+email="hailei@navajofund.org"
+
+[[PRINCIPALS]]
+name="Victor Johnson"
+email="victor@navajofund.org"
+
+[[CURRENCIES]]
+code="BEESO"
+issuer="ZZZJ4223KUWIMV7RAPQKBA7YGR4I7H2BIV4KIMMXMQWYQBOZ6HLZRZZZ"
+is_asset_anchored=false
+display_decimals=7
+name="Diné Bi Béeso"
+desc="Diné Bi Béeso: The People's Money ($BEESO) is a cryptocurrency token and operates as an asset on the Stellar network."
+conditions="The number of Diné Bi Béeso ($BEESO) tokens minted is capped at 12,500,000,000. No more will ever come into existence."
+image="https://www.navajofund.org/.well-known/logo.png"
+fixed_number=12500000000
+status="test"

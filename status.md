@@ -16,7 +16,7 @@ title: Status
 | Database      | ✅ |
 | Email Delivery      | ✅ 
 
-<center> <b>Online:</b> ✅ <b>Errors:</b> 🌩️ <b>Offline:</b> 🚨 </center>
+<center> <b>Online:</b> ✅ <b>Issue:</b> 🌩️ <b>Offline:</b> 🚨 </center>
 
 Status updates available [@tooters](https://tooters.org/@tooters) and [RSS](https://tooters.org/@tooters.rss)
 

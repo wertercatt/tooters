@@ -18,7 +18,5 @@ title: Status
 
 <center> <b>Online:</b> ✅ <b>Issue:</b> 🌩️ <b>Offline:</b> 🚨 </center>
 
-Status updates available [@tooters](https://tooters.org/@tooters) and [RSS](https://tooters.org/@tooters.rss)
-
 <br>
 <br>

@@ -6,7 +6,7 @@ title: Privacy
 
 <h2><center><small>Privacy Policy</small></center></h2>
 
-<h4><center>Last updated February 24th, 2023</center></h4>
+<h4><center>Last updated March 11th, 2023</center></h4>
 
 <br>
 

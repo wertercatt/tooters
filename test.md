@@ -8,9 +8,9 @@ title: Test
 
 This is an example of a toot with styling to match the website design.
 
-<a href=“https://home.tooters.org/test”>#NYC</a> <a href=“https://home.tooters.org/test”>#StreetPhotography</a>
+[#NewYork](https://tooters.org) [#photography](https://tooters.org)
 
-Here is a link: <a href=“https://home.tooters.org/test”>home.tooters.org</a>
+Here is a link: [home.tooters.org](https://tooters.org)
 
 <br>
 <br>

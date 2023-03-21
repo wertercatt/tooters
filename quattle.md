@@ -10,7 +10,7 @@ Quattle is a modern, responsive, and customizable theme for the static site gene
 [v1.6.0 (f687d4c)](https://github.com/victorwynne/quattle/releases/tag/v1.6.0-RC)
 
 ## <small>Demo</small>
-[quattle.victorwynne.com](https://quattle.victorwynne.com)
+You are looking at it right now. 🤓
 
 ## <small>Download</small>
 [GitHub](https://github.com/victorwynne/quattle/releases) or [RubyGems](https://rubygems.org/gems/quattle)

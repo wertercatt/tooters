@@ -80,7 +80,6 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 ## <small>Stats</small>
 
 Posts: {{ site.posts.size }}<br>
-number_with_delimiter: delimiter: ',' }}<br>
 Build: {{ site.time | date: '%R %Z' }} on {{ site.time | date_to_long_string: "ordinal", "US" }}
 
 ## <small>Contact</small>

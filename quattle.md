@@ -44,7 +44,7 @@ Smart quotes across all content with the `{ | smartify }` liquid filter
 
 Rich preview links when shared via iMessage and social media services
 
-A wide variety of HTML elements commonly used in Markdown writing are styled (mark, source references, blockquotes, headers, tables, boxes/buttons, figure captions, inline code, code blocks, tweets, footnotes)
+A wide variety of HTML elements commonly used in Markdown writing are [styled](https://victorwynne.com/styles/); mark, source references, blockquotes, headers, tables, boxes/buttons, figure captions, inline code, code blocks, social media posts, and footnotes.
 
 Additional supported and styled front matter:
 * Author attribution

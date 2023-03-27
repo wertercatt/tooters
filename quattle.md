@@ -46,7 +46,7 @@ Rich preview links when shared via iMessage and social media services
 
 A wide variety of HTML elements commonly used in Markdown writing are [styled](https://victorwynne.com/styles/); mark, source references, blockquotes, headers, tables, boxes/buttons, figure captions, inline code, code blocks, social media posts, and footnotes.
 
-Additional supported and styled front matter:
+Additional supported front matter:
 * Author attribution
 * Last modified date
 * Linked list style posts that have an external source reference

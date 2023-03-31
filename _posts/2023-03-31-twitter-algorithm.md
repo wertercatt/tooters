@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Twitter recommendation algorithm is now open-source"
+title:  "Twitter recommendation algorithm is now open-source"
 date:   2023-03-31 16:06
 categories: [Links]
 tags: [business, git, twitter]

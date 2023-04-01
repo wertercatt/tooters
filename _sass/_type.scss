@@ -108,10 +108,10 @@ blockquote {
   margin: 40px auto;
   font-size: 93%;
   position: relative;
-  border-left: 1.5px solid $element;
+  border-left: 2px solid $element;
 
   @media (prefers-color-scheme: light) {
-  border-left: 1.5px solid $light-scheme-element;
+  border-left: 2px solid $light-scheme-element;
   }
 
   p:last-child {

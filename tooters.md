@@ -18,11 +18,11 @@ What truly defines a good experience on the fediverse is the attitude taken by y
 
 Bots are allowed so long as they are *ethical*. For Tooters.org that means:
 
-	* 	‘This is a bot account’ is toggled on in the account’s profile settings.
-	* 	No more than 100 toots per 24 hour period.
-	* 	No scraping, indexing, reminder, or auto-responders.
-	* 	No unsolicited @ mentioning of any other account.
-	* 	No spam, or advertising.
+- ‘This is a bot account’ is toggled on in the account’s profile settings.
+- No more than 100 toots per 24 hour period.
+- No scraping, indexing, reminder, or auto-responders.
+- No unsolicited @ mentioning of any other account.
+- No spam, or advertising.
   
 ## <small>NSFW Content</small>
 
@@ -32,8 +32,10 @@ Sexually explicit material must have a content warning applied to mark it as sen
 ## <small>Accessibility</small>
 
 Being considerate of people who require tools such as screen readers is the only way to be a welcoming community. For that reason:
-	* 	All media toots should have alt text included.
-	* 	All multi-word hashtags should be capitalized.
+
+- All media toots should have alt text included.
+- All multi-word hashtags should be capitalized.
+ 
 For example: #streetphotography is not discernible to a screen reader, but #StreetPhotography is.
 
 ## <small>Direct Messaging</small>
@@ -51,7 +53,4 @@ You can reach out by mentioning [@tooters](https://tooters.org/@tooters)  or by 
 ## <small>Service Status</small>
 
 In the event of any server issues, updates will be provided here:
-[tooters.instatus.com](https://tooters.instatus.com/) 
-
-
-You can submit a request for an account, and review the community rules [here](https://tooters.org/auth/sign_up).
+[tooters.instatus.com](https://tooters.instatus.com/).

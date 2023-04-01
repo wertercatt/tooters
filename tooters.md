@@ -52,5 +52,4 @@ You can reach out by mentioning [@tooters](https://tooters.org/@tooters)  or by 
 
 ## <small>Service Status</small>
 
-In the event of any server issues, updates will be provided here:
-[tooters.instatus.com](https://tooters.instatus.com/).
+In the event of any server issues, updates will be provided at [tooters.instatus.com](https://tooters.instatus.com/).

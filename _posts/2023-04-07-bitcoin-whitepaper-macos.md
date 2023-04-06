@@ -16,8 +16,8 @@ Andy Baio:
 >If you’re on a Mac, open a Terminal and type the following command:
 >
 >{% highlight shell %}
->open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf
->{% endhighlight %}
+open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf
+{% endhighlight %}
 >
 >If you’re on macOS 10.14 or later, the Bitcoin PDF should immediately open in Preview.
 >

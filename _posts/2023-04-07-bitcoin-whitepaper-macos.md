@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Bitcoin whitepaper is hidden in every modern copy of macOS"
-date:   2023-04-07 23:00
+date:   2023-04-05 23:00
 categories: [Links]
 tags: [apple, humor, macOS]
 link: https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/

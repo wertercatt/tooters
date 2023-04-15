@@ -4,7 +4,7 @@ permalink: /tooters/
 title: Tooters
 ---
 
-[Tooters](https://tooters.org) is a fediverse instance for English speakers. Morally grounded individuals capable of civil discourse will feel right at home. The server rules can be reviewed [here](https://tooters.org/auth/sign_up).
+[Tooters](https://tooters.org) is a fediverse instance for English speakers. Morally grounded individuals capable of civil discourse will feel right at home. Server rules can be reviewed [here](https://tooters.org/auth/sign_up).
 
 
 ## <small>Current Release</small>

@@ -48,7 +48,7 @@ For example: #streetphotography is not discernible to a screen reader, but #Stre
 
 ## <small>Direct Messaging</small>
 
-Be aware that toots sent to ‘mentioned people only’ (DMs) are not encrypted, and therefore should not be considered truly private.
+Be aware that toots sent to ‘mentioned people only’ (DMs) are not encrypted, and therefore should not be considered private.
 
 ## <small>Account Retention</small>
 

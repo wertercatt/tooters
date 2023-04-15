@@ -4,7 +4,7 @@ permalink: /tooters/
 title: Tooters
 ---
 
-Tooters.org is a fediverse instance for English speakers. Morally grounded individuals capable of civil discourse will feel right at home. You can review the community rules, and request an account [here](https://tooters.org/).
+<center>Tooters.org is a fediverse instance for English speakers. Morally grounded individuals capable of civil discourse will feel right at home.</center>
 
 ## <small>Bot Accounts</small>
 

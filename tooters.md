@@ -13,12 +13,11 @@ title: Tooters
 
 ## <small>Service Status</small>
 
-Dashboard:
 [tooters.instatus.com](https://tooters.instatus.com/)
 
 ## <small>Support</small>
 
-Fedi: [@tooters](https://tooters.org/@tooters)
+Fedi: [@tooters](https://tooters.org/@tooters)<br>
 Email: [hello@tooters.org](mailto:hello@tooters.org)
 
 ## <small>Bot Accounts</small>

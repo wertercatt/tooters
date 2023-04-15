@@ -4,7 +4,13 @@ permalink: /tooters/
 title: Tooters
 ---
 
-<center>Tooters.org is a fediverse instance for English speakers. Morally grounded individuals capable of civil discourse will feel right at home.</center>
+[Tooters](https://tooters.org) is a fediverse instance for English speakers. Morally grounded individuals capable of civil discourse will feel right at home.
+
+
+## <small>Current Release</small>
+
+[Mastodon v4.1.2](https://github.com/mastodon/mastodon/releases/tag/v4.1.2)
+
 
 ## <small>Bot Accounts</small>
 

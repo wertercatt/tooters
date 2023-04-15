@@ -11,6 +11,10 @@ title: Tooters
 
 [Mastodon v4.1.2](https://github.com/mastodon/mastodon/releases/tag/v4.1.2)
 
+## <small>Service Status</small>
+
+In the event of any server issues, updates will be provided here:
+[tooters.instatus.com](https://tooters.instatus.com/)
 
 ## <small>Bot Accounts</small>
 
@@ -49,8 +53,3 @@ In the event that Tooters.org announces we plan to discontinue operating as an i
 ## <small>Support</small>
 
 You can reach out to us by mentioning [@tooters](https://tooters.org/@tooters) or by sending an email to [hello@tooters.org](mailto:hello@tooters.org).
-
-## <small>Service Status</small>
-
-In the event of any server issues, updates will be provided here:
-[tooters.instatus.com](https://tooters.instatus.com/)

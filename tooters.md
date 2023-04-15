@@ -52,4 +52,4 @@ Be aware that toots sent to ‘mentioned people only’ (DMs) are not encrypted,
 
 ## <small>Account Retention</small>
 
-In the event that Tooters.org announces we plan to discontinue operating as an instance; new account registrations will close, and current account holders will be given **six months advanced notice** so that they can be assisted in migrating their account to a different instance.§
+In the event that Tooters.org announces we plan to discontinue operating as an instance; new account registrations will close, and current account holders will be given **six months advanced notice** so that they can be assisted in migrating their account to a different instance. §

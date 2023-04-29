@@ -46,6 +46,15 @@ Being considerate of people who require tools such as screen readers is the only
 
 For example: #streetphotography is not discernible to a screen reader, but #StreetPhotography is.
 
+## <small>Fundraising</small>
+
+It is common on the fediverse for people to seek financial support, or raise money for various causes. Some people do not want to see this type of content, and adding a word/hashtag to your toots which can be muted helps to achieve this.
+
+Some commonly used examples:
+
+- [#MutualAid](https://tooters.org/tags/MutualAid)
+- [#BegPost](https://tooters.org/tags/BegPost)
+
 ## <small>Direct Messaging</small>
 
 Be aware that toots sent to ‘mentioned people only’ (DMs) are not encrypted, and therefore should not be considered private.

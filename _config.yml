@@ -1,6 +1,6 @@
-title: Tooters.org
+title: Verification by Tooters
 tagline:
-url: https://home.tooters.org
+url: https://jessica.tooters.org
 baseurl: ""
 permalink: :title/
 
@@ -27,15 +27,15 @@ sass:
   style: :compressed
 
 author:
-  name: Victor Wynne
-  url: https://tooters.org 
-  email: victor@tooters.org
+  name: Jessica Rae
+  url: https://jessica.tooters.org 
+  email: verification@tooters.org
 
 version: 1.4.0
 github:
   repo: https://github.com/victorwynne/quattle/
 
 # Feed
-name: Tooters
-description: Tooters.org
-url: https://home.tooters.org
+name: Verification by Tooters
+description: Verification by Tooters
+url: https://jessica.tooters.org

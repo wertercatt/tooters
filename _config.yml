@@ -1,4 +1,4 @@
-title: Tooters.org
+title: Tooters
 tagline:
 url: https://home.tooters.org
 baseurl: ""
@@ -31,11 +31,11 @@ author:
   url: https://tooters.org 
   email: victor@tooters.org
 
-version: 1.4.0
+version: 1.6.0
 github:
   repo: https://github.com/victorwynne/quattle/
 
 # Feed
 name: Tooters
-description: Tooters.org
+description: Tooters
 url: https://home.tooters.org

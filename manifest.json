@@ -1,7 +1,0 @@
-{
-  "name": "Tooters",
-  "short_name": "Tooters",
-  "display": "standalone",
-  "scope": "/",
-  "start_url": "/status/"
-}

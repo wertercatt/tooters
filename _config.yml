@@ -1,6 +1,6 @@
 title: Verification by Tooters
 tagline:
-url: https://jessica.tooters.org
+url: https://ashley.tooters.org
 baseurl: ""
 permalink: :title/
 
@@ -27,8 +27,8 @@ sass:
   style: :compressed
 
 author:
-  name: Jessica Rae
-  url: https://jessica.tooters.org 
+  name: Ashley
+  url: https://ashley.tooters.org 
   email: verification@tooters.org
 
 version: 1.4.0
@@ -38,4 +38,4 @@ github:
 # Feed
 name: Verification by Tooters
 description: Verification by Tooters
-url: https://jessica.tooters.org
+url: https://ashley.tooters.org

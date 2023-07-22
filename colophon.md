@@ -33,7 +33,6 @@ Links: [victorwynne.com/links.xml](https://victorwynne.com/links.xml)
 
 [AirBuddy](https://v2.airbuddy.app)<br>
 [AlDente](https://apphousekitchen.com)<br>
-[Apollo](https://apolloapp.io)<br>
 [Audio Hijack](https://rogueamoeba.com/audiohijack)<br>
 [BBEdit](https://www.barebones.com/products/bbedit)<br>
 [Bear](https://bear.app)<br>

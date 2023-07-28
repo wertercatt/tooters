@@ -18,6 +18,6 @@ There are two parts to our initial steps in this process. The first is taking me
 
 The second part is focused on fear of retribution, persecution. Rather than reach out via a DM that is tied to your account, we have setup an email address care@tooters.org which you can correspond with anonymously. Until you want corrective action taken by Sandy, everything you share in those emails can remain anonymous if you use a throwaway email address and name. If you decide you would like me in the message chain you can request that, otherwise it stays between you and her.
 
-This is not only for community members of tooters.org either. We are extending this offering to every woman on the fediverse who would like a safe mediator when dealing with such highly personable, and sensitive conversations. We are doing this because we care. Because women, being part of society, means their issues are everyones issues. If *everyone* could more fully realize that we would be in a much better place than we are today.
+This is not only for community members of tooters.org either. We are extending this offering to every woman on the fediverse who would like a safe mediator when dealing with such highly personable, and sensitive conversations. We are doing this because we care. Because women, being part of society, means their issues are everyone’s issues. If *everyone* could more fully realize that we would be in a much better place than we are today.
 
 The goal is to help women, and we welcome all feedback in shaping this goal into a more suitable offering. ❤️

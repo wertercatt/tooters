@@ -64,9 +64,9 @@ Your public content may be downloaded by other servers in the network. Your publ
 
 When you authorize an application to use your account, depending on the scope of permissions you approve, it may access your public profile information, your following list, your followers, your lists, all your posts, and your favorites. Applications can never access your e-mail address or password.
 
-### Large Language Models, ML, AI
+### LLM, ML, AI
 
-No content published to and residing on tooters.org shall be used in the development of any programmatic applications. This includes, but is not limited to, software applications which create dictionaries, libraries, or training models for machine learning (ML) or artificial intelligence (AI) systems.
+No content published to and residing on tooters.org shall be used in the development of any programmatic applications. This includes, but is not limited to, software applications which create dictionaries, libraries, or training for large language models (LLM), machine learning (ML) or artificial intelligence (AI) systems. Content is defined as text, hyperlinks, audio, video, and images.
 
 ### Site usage by children
 

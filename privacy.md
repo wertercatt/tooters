@@ -6,7 +6,7 @@ title: Privacy
 
 <h2><center><small>Privacy Policy</small></center></h2>
 
-<h4><center>Last updated March 11th, 2023</center></h4>
+<h4><center>Last updated August 14th, 2023</center></h4>
 
 <br>
 
@@ -63,6 +63,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Your public content may be downloaded by other servers in the network. Your public and followers-only posts are delivered to the servers where your followers reside, and direct messages are delivered to the servers of the recipients, in so far as those followers or recipients reside on a different server than this.
 
 When you authorize an application to use your account, depending on the scope of permissions you approve, it may access your public profile information, your following list, your followers, your lists, all your posts, and your favorites. Applications can never access your e-mail address or password.
+
+### Large Language Models, ML, AI
+
+No content published to and residing on tooters.org shall be used in the development of any programmatic applications. This includes, but is not limited to, software applications which create dictionaries, libraries, or training models for machine learning (ML) or artificial intelligence (AI) systems.
 
 ### Site usage by children
 

@@ -1,0 +1,194 @@
+/*
+    * Shrink the font size a smidge for post content
+    * Indent the paragraph text
+    * Stop posts from getting too tall by capping content 
+      height, and adding scrollbar if exceeded
+        - 350px seems to be the sweet spot - maybe 90% of 
+          posts don't hit the height cap
+    * This alignment intentionally does not apply to
+      expanded posts.
+*/
+.status .reply-indicator__content, .status .status__content {
+    margin-left: calc(58px - 0.5em);
+    font-size: 1.0em;
+    padding: 0 0.5em;
+    max-height: 450px;
+    overflow-y: auto;
+}
+
+/*
+    * Narrow the media icon on status cards, so that the
+      card title aligns with post content
+*/
+.status-card.compact .status-card__image {
+    flex: 0 0 calc(58px - 0.75em);
+}
+
+/*
+    * Brighten the post privacy indicator a tad if public but
+      not listed in public timelines
+    * Set a bright color for privacy indicator if locked to
+      followers or specific recipients
+*/
+.status__visibility-icon .fa-lock {
+    color: #ff7d3a;
+}
+.status__visibility-icon .fa-at {
+    color: #FF6BAF;
+}
+.status__visibility-icon .fa-unlock {
+    color: #018674;
+}
+
+/*
+    * Give avatar photos a fun rounded blob shape
+    * Profile page photos are still rounded squares
+*/
+.account__avatar {
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 70%;
+    border-top-right-radius: 70%;
+}
+.account__header__tabs .account__avatar {
+    border-radius: 4px;
+}
+
+.compose-form__publish-button-wrapper button, .button[href = "/publish"] {
+  text-indent: -9999px;
+  line-height: 0; /* Collapse the original line */
+}
+
+.compose-form__publish-button-wrapper button:after, .button[href = "/publish"]:after {
+  content:'Toot!'; 
+  text-indent: 0;
+  display: block;
+  line-height: initial; /* New content takes up original line height */
+}
+
+.status-direct {
+background: rgba(0,0,0,.2);
+box-shadow: inset 0 0 0 3px rgba(0, 0, 0, 40%);
+}
+
+
+.account__header__bio .account__header__fields .verified + .verified { /* Fix double border between 2 successive verified fields */
+    margin-top: 0;
+    border-top-width: 0;
+}
+.account__header__bio .account__header__fields .verified a, .account__header__bio .account__header__fields .verified dd { /* Verified field tweak: vivid green text */
+    color: #595aff;
+}
+.account__header__bio .account__header__fields .verified dt { /* Verified field tweak: restore default field title color */
+    color: #606984;
+}
+
+.account__header__bio .account__header__fields .verified { /* Verified field tweak: restore default background and border */
+    border-top: 1px solid #595aff;
+    border-right: 1px solid #595aff;
+    border-left: 1px solid #595aff;
+    border-bottom: 1px solid #595aff;
+    background: none;
+}
+
+.account__header__extra .account__header__fields .verified dd span:first-child { /* Verified field tweak: adding a green background circle to the checkmark icon */
+    display: inline-block;
+    background-color: #595aff;
+    border-radius: 50px;
+    width: 1.2em;
+    height: 1.2em;
+    line-height: 1.2;
+    text-align: center;
+    margin-right: 2px;
+}
+.account__header__extra .account__header__fields .verified dd span:first-child i { /* white checkmark */
+    color: #1f232b;
+    font-size: 85%;
+    transform: scale(.9);
+}
+
+body { /* Use SF Rounded on Apple devices, fallback to usual Mastodon font on other devices */
+    font-family: ui-rounded, "mastodon-font-sans-serif", sans-serif;
+}
+
+.account__header__bio .account__header__fields > dl:first-child {
+    display: none;
+}
+
+.account__header__bio .account__header__fields dl:nth-child(2) { /* Add a corner radius to the second profile field because we're hiding the Joined field */
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    margin-top: 0;
+}
+
+
+@media screen and (max-width: 889px) {
+  .columns-area__panels__pane--navigational .navigation-panel {
+    height: 40px;
+    max-height: 40px;
+    overflow-y: hidden;
+  }
+
+  .colums,
+  .columns-area__panels__pane__inner {
+    height: auto;
+  }
+
+  .navigation-panel:before {
+    content: "　";
+    background-image: url("/packs/media/images/logo-d4b5dc90fd3e117d141ae7053b157f58.svg");
+    width: 26px;
+    height: 26px;
+    line-height: 23px;
+    background-size: 22px;
+    background-repeat: no-repeat;
+    margin-right: 15px;
+    margin-top: 8px;
+    margin-left: 15px;
+    text-align: center;
+  }
+
+  .columns-area__panels__pane--navigational {
+    position: fixed;
+    top: 6px;
+    left: 0px;
+    z-index: 4;
+  }
+
+  .ui__header__logo {
+    display: none;
+  }
+
+  .ui__header {
+    justify-content: right;
+  }
+  .columns-area__panels .columns-area__panels__main {
+    width: 100%;
+  }
+
+  .ui__header__logo {
+    padding-left: 60px;
+  }
+
+  .columns-area__panels__pane--navigational .navigation-panel:hover {
+    height: 100vh;
+    max-height: 100vh;
+    border-right: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 5px 5px black;
+  }
+
+  .columns-area__panels__pane--navigational .navigation-panel:active {
+    height: 100vh;
+    max-height: 100vh;
+  }
+
+  .status p {
+    font-size: 16px;
+  }
+
+.about__footer,
+.search-banner ~ .search,
+.server-banner__introduction {
+display: none;
+  }
+}
